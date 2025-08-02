@@ -22,6 +22,7 @@ logging.basicConfig(
 # Danh sách khung thời gian
 TIMEFRAMES = ['15m', '30m', '1h', '2h', '4h', '12h', '1d', '1w']
 
+'''
 # Khởi tạo sàn Binance và danh sách 100 cặp giao dịch phổ biến nhất
 def initialize_exchange_and_symbols():
     global exchange
@@ -46,7 +47,41 @@ def initialize_exchange_and_symbols():
         logging.error(f"Lỗi khởi tạo sàn Binance: {str(e)}")
         st.error(f"Lỗi kết nối với Binance: {str(e)}")
         return []
+'''
+def initialize_exchange_and_symbols():
+    global exchange
+    try:
+        exchange = ccxt.bybit({
+            'options': {
+                'defaultType': 'linear'  # hỗ trợ cho thị trường futures
+            }
+        })
+        markets = exchange.load_markets()
+        tickers = exchange.fetch_tickers()
 
+        # Lọc các cặp USDT (tùy định dạng có thể có ':USDT' hoặc không)
+        valid_symbols = [
+            symbol for symbol in markets.keys()
+            if 'USDT' in symbol and markets[symbol].get('active', False)
+        ]
+
+        sorted_symbols = sorted(
+            valid_symbols,
+            key=lambda x: tickers.get(x, {}).get('quoteVolume', 0),
+            reverse=True
+        )
+
+        if 'SOL/USDT' not in sorted_symbols and 'SOL/USDT' in markets:
+            sorted_symbols.append('SOL/USDT')
+
+        logging.info(f"Khởi tạo sàn Bybit và tải {len(sorted_symbols[:100])} cặp giao dịch phổ biến nhất")
+        return sorted_symbols[:100]
+
+    except Exception as e:
+        logging.error(f"Lỗi khởi tạo sàn Bybit: {str(e)}")
+        st.error(f"Lỗi kết nối với Bybit: {str(e)}")
+        return []
+        
 exchange = None
 TRADING_PAIRS = initialize_exchange_and_symbols()
 LEVERAGE_OPTIONS = [1, 2, 3, 5, 10, 15, 20, 25, 50, 100]
