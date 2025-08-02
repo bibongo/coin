@@ -1,0 +1,1797 @@
+2025-08-02 10:54:14,138 - INFO - Kh\u1edfi t\u1ea1o sàn Binance và t\u1ea3i 100 c\u1eb7p giao d\u1ecbch ph\u1ed5 bi\u1ebfn nh\u1ea5t
+2025-08-02 10:54:14,594 - INFO - \u1ee8ng d\u1ee5ng Streamlit kh\u1edfi \u0111\u1ed9ng
+2025-08-02 10:54:14,605 - ERROR - L\u1ed7i \u1ee9ng d\u1ee5ng Streamlit: All numerical arguments must be of the same type.
+`value` has int type.
+`max_value` has float type.
+`step` has float type.
+2025-08-02 11:00:24,622 - INFO - Kh\u1edfi t\u1ea1o sàn Binance và t\u1ea3i 100 c\u1eb7p giao d\u1ecbch ph\u1ed5 bi\u1ebfn nh\u1ea5t
+2025-08-02 11:00:25,063 - INFO - \u1ee8ng d\u1ee5ng Streamlit kh\u1edfi \u0111\u1ed9ng
+2025-08-02 11:00:40,615 - INFO - Kh\u1edfi t\u1ea1o sàn Binance và t\u1ea3i 100 c\u1eb7p giao d\u1ecbch ph\u1ed5 bi\u1ebfn nh\u1ea5t
+2025-08-02 11:00:40,626 - INFO - \u1ee8ng d\u1ee5ng Streamlit kh\u1edfi \u0111\u1ed9ng
+2025-08-02 11:00:40,815 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BTC/USDT (1h)
+2025-08-02 11:00:40,870 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:00:41,080 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BTC/USDT (30m)
+2025-08-02 11:00:41,130 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:00:41,305 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BTC/USDT (2h)
+2025-08-02 11:00:41,353 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:00:41,356 - INFO - H\u1ed7 tr\u1ee3: 112722.58, Kháng c\u1ef1: 116019.3
+2025-08-02 11:00:41,356 - INFO - Khuy\u1ebfn ngh\u1ecb cho BTC/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.23999999999999996, Khung: 1h
+2025-08-02 11:00:41,358 - INFO - Phân tích c\u1ea3m xúc cho BTC/USDT: Trung l\u1eadp (Neutral) (Score: 0.46)
+2025-08-02 11:00:54,615 - INFO - Kh\u1edfi t\u1ea1o sàn Binance và t\u1ea3i 100 c\u1eb7p giao d\u1ecbch ph\u1ed5 bi\u1ebfn nh\u1ea5t
+2025-08-02 11:00:54,629 - INFO - \u1ee8ng d\u1ee5ng Streamlit kh\u1edfi \u0111\u1ed9ng
+2025-08-02 11:01:00,169 - INFO - Kh\u1edfi t\u1ea1o sàn Binance và t\u1ea3i 100 c\u1eb7p giao d\u1ecbch ph\u1ed5 bi\u1ebfn nh\u1ea5t
+2025-08-02 11:01:00,178 - INFO - \u1ee8ng d\u1ee5ng Streamlit kh\u1edfi \u0111\u1ed9ng
+2025-08-02 11:01:00,359 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SOL/USDT (1h)
+2025-08-02 11:01:00,405 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:00,590 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SOL/USDT (30m)
+2025-08-02 11:01:00,637 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:00,812 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SOL/USDT (2h)
+2025-08-02 11:01:00,852 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:00,854 - INFO - H\u1ed7 tr\u1ee3: 159.2, Kháng c\u1ef1: 170.35
+2025-08-02 11:01:00,854 - INFO - Khuy\u1ebfn ngh\u1ecb cho SOL/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.21999999999999997, Khung: 1h
+2025-08-02 11:01:00,856 - INFO - Phân tích c\u1ea3m xúc cho SOL/USDT: Trung l\u1eadp (Neutral) (Score: 0.60)
+2025-08-02 11:01:08,210 - INFO - Kh\u1edfi t\u1ea1o sàn Binance và t\u1ea3i 100 c\u1eb7p giao d\u1ecbch ph\u1ed5 bi\u1ebfn nh\u1ea5t
+2025-08-02 11:01:08,220 - INFO - \u1ee8ng d\u1ee5ng Streamlit kh\u1edfi \u0111\u1ed9ng
+2025-08-02 11:01:11,553 - INFO - Kh\u1edfi t\u1ea1o sàn Binance và t\u1ea3i 100 c\u1eb7p giao d\u1ecbch ph\u1ed5 bi\u1ebfn nh\u1ea5t
+2025-08-02 11:01:11,562 - INFO - Phân tích c\u1ea3m xúc cho BTC/USDT: Trung l\u1eadp (Neutral) (Score: 0.52)
+2025-08-02 11:01:11,568 - INFO - Phân tích c\u1ea3m xúc cho SOL/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.16)
+2025-08-02 11:01:11,773 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ETH/USDT (1h)
+2025-08-02 11:01:11,796 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho XRP/USDT (1h)
+2025-08-02 11:01:11,822 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:11,829 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho USDC/USDT (1h)
+2025-08-02 11:01:11,844 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ENA/USDT (1h)
+2025-08-02 11:01:11,849 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho FDUSD/USDT (1h)
+2025-08-02 11:01:11,886 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:11,911 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:11,976 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:12,033 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:12,068 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ETH/USDT (30m)
+2025-08-02 11:01:12,140 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:12,145 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho XRP/USDT (30m)
+2025-08-02 11:01:12,176 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:12,198 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ENA/USDT (30m)
+2025-08-02 11:01:12,228 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:12,231 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho USDC/USDT (30m)
+2025-08-02 11:01:12,268 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:12,273 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho FDUSD/USDT (30m)
+2025-08-02 11:01:12,309 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:12,402 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ETH/USDT (2h)
+2025-08-02 11:01:12,434 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho XRP/USDT (2h)
+2025-08-02 11:01:12,454 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:12,464 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ENA/USDT (2h)
+2025-08-02 11:01:12,473 - INFO - H\u1ed7 tr\u1ee3: 3431.75, Kháng c\u1ef1: 3675.85
+2025-08-02 11:01:12,505 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho USDC/USDT (2h)
+2025-08-02 11:01:12,529 - INFO - Khuy\u1ebfn ngh\u1ecb cho ETH/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.16499999999999995, Khung: 1h
+2025-08-02 11:01:12,532 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:12,544 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho FDUSD/USDT (2h)
+2025-08-02 11:01:12,649 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:12,649 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:12,653 - INFO - H\u1ed7 tr\u1ee3: 2.892, Kháng c\u1ef1: 3.059
+2025-08-02 11:01:12,653 - INFO - Phân tích c\u1ea3m xúc cho ETH/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.25)
+2025-08-02 11:01:12,705 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:12,709 - INFO - H\u1ed7 tr\u1ee3: 1.0, Kháng c\u1ef1: 1.0005
+2025-08-02 11:01:12,709 - INFO - H\u1ed7 tr\u1ee3: 0.5546, Kháng c\u1ef1: 0.6222
+2025-08-02 11:01:12,709 - INFO - Khuy\u1ebfn ngh\u1ecb cho XRP/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.14500000000000002, Khung: 1h
+2025-08-02 11:01:12,716 - INFO - H\u1ed7 tr\u1ee3: 0.9975, Kháng c\u1ef1: 0.9981
+2025-08-02 11:01:12,717 - INFO - Khuy\u1ebfn ngh\u1ecb cho USDC/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.6299999999999999, Khung: 1h
+2025-08-02 11:01:12,718 - INFO - Khuy\u1ebfn ngh\u1ecb cho ENA/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.24, Khung: 1h
+2025-08-02 11:01:12,721 - INFO - Khuy\u1ebfn ngh\u1ecb cho FDUSD/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.24999999999999997, Khung: 1h
+2025-08-02 11:01:12,722 - INFO - Phân tích c\u1ea3m xúc cho XRP/USDT: Trung l\u1eadp (Neutral) (Score: 0.63)
+2025-08-02 11:01:12,734 - WARNING - Take profit không h\u1ee3p l\u1ec7, \u0111i\u1ec1u ch\u1ec9nh thành 1.02
+2025-08-02 11:01:12,734 - INFO - Phân tích c\u1ea3m xúc cho USDC/USDT: Trung l\u1eadp (Neutral) (Score: 0.47)
+2025-08-02 11:01:12,735 - WARNING - C\u1eb7p USDC/USDT có support/resistance quá g\u1ea7n nhau
+2025-08-02 11:01:12,738 - INFO - Phân tích c\u1ea3m xúc cho ENA/USDT: Tích c\u1ef1c (Bullish) (Score: 0.77)
+2025-08-02 11:01:12,741 - INFO - Phân tích c\u1ea3m xúc cho FDUSD/USDT: Trung l\u1eadp (Neutral) (Score: 0.43)
+2025-08-02 11:01:12,741 - WARNING - C\u1eb7p FDUSD/USDT có support/resistance quá g\u1ea7n nhau
+2025-08-02 11:01:12,891 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho DOGE/USDT (1h)
+2025-08-02 11:01:12,973 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:12,978 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SUI/USDT (1h)
+2025-08-02 11:01:12,994 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TRX/USDT (1h)
+2025-08-02 11:01:13,006 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PENGU/USDT (1h)
+2025-08-02 11:01:13,030 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BNB/USDT (1h)
+2025-08-02 11:01:13,136 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:13,215 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:13,238 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:13,270 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:13,291 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho DOGE/USDT (30m)
+2025-08-02 11:01:13,346 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:13,460 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TRX/USDT (30m)
+2025-08-02 11:01:13,523 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:13,529 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PENGU/USDT (30m)
+2025-08-02 11:01:13,535 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BNB/USDT (30m)
+2025-08-02 11:01:13,547 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SUI/USDT (30m)
+2025-08-02 11:01:13,556 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho DOGE/USDT (2h)
+2025-08-02 11:01:13,756 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:13,764 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:13,827 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:13,842 - INFO - H\u1ed7 tr\u1ee3: 0.19583, Kháng c\u1ef1: 0.2125
+2025-08-02 11:01:13,843 - INFO - Khuy\u1ebfn ngh\u1ecb cho DOGE/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.6349999999999999, Khung: 1h
+2025-08-02 11:01:13,843 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:13,848 - INFO - Phân tích c\u1ea3m xúc cho DOGE/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.18)
+2025-08-02 11:01:13,863 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TRX/USDT (2h)
+2025-08-02 11:01:13,931 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:13,941 - INFO - H\u1ed7 tr\u1ee3: 0.3214, Kháng c\u1ef1: 0.3286
+2025-08-02 11:01:13,944 - INFO - Khuy\u1ebfn ngh\u1ecb cho TRX/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.55, Khung: 1h
+2025-08-02 11:01:13,954 - WARNING - Take profit không h\u1ee3p l\u1ec7, \u0111i\u1ec1u ch\u1ec9nh thành 0.3366
+2025-08-02 11:01:13,955 - INFO - Phân tích c\u1ea3m xúc cho TRX/USDT: Trung l\u1eadp (Neutral) (Score: 0.68)
+2025-08-02 11:01:14,028 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PENGU/USDT (2h)
+2025-08-02 11:01:14,055 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BNB/USDT (2h)
+2025-08-02 11:01:14,065 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PEPE/USDT (1h)
+2025-08-02 11:01:14,118 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SUI/USDT (2h)
+2025-08-02 11:01:14,160 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:14,227 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ADA/USDT (1h)
+2025-08-02 11:01:14,291 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:14,316 - INFO - H\u1ed7 tr\u1ee3: 0.032396, Kháng c\u1ef1: 0.036454
+2025-08-02 11:01:14,365 - INFO - Khuy\u1ebfn ngh\u1ecb cho PENGU/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.7949999999999999, Khung: 1h
+2025-08-02 11:01:14,395 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:14,420 - INFO - H\u1ed7 tr\u1ee3: 744.69, Kháng c\u1ef1: 775.98
+2025-08-02 11:01:14,451 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:14,466 - INFO - Khuy\u1ebfn ngh\u1ecb cho BNB/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.11000000000000001, Khung: 1h
+2025-08-02 11:01:14,492 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:14,497 - INFO - H\u1ed7 tr\u1ee3: 3.3543, Kháng c\u1ef1: 3.5972
+2025-08-02 11:01:14,498 - WARNING - Take profit không h\u1ee3p l\u1ec7, \u0111i\u1ec1u ch\u1ec9nh thành 0.0408
+2025-08-02 11:01:14,506 - INFO - Khuy\u1ebfn ngh\u1ecb cho SUI/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.09999999999999999, Khung: 1h
+2025-08-02 11:01:14,507 - INFO - Phân tích c\u1ea3m xúc cho PENGU/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.00)
+2025-08-02 11:01:14,518 - INFO - Phân tích c\u1ea3m xúc cho BNB/USDT: Tích c\u1ef1c (Bullish) (Score: 0.89)
+2025-08-02 11:01:14,521 - INFO - Phân tích c\u1ea3m xúc cho SUI/USDT: Trung l\u1eadp (Neutral) (Score: 0.44)
+2025-08-02 11:01:14,686 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PEPE/USDT (30m)
+2025-08-02 11:01:14,730 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ADA/USDT (30m)
+2025-08-02 11:01:14,754 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho LINK/USDT (1h)
+2025-08-02 11:01:14,787 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho HBAR/USDT (1h)
+2025-08-02 11:01:14,793 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BONK/USDT (1h)
+2025-08-02 11:01:14,839 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:14,961 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:15,006 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:15,039 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:15,046 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:15,067 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PEPE/USDT (2h)
+2025-08-02 11:01:15,122 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:15,125 - INFO - H\u1ed7 tr\u1ee3: 1.004e-05, Kháng c\u1ef1: 1.077e-05
+2025-08-02 11:01:15,126 - INFO - Khuy\u1ebfn ngh\u1ecb cho PEPE/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.035, Khung: 1h
+2025-08-02 11:01:15,134 - ERROR - L\u1ed7i tính toán ch\u1ec9 s\u1ed1 giao d\u1ecbch: Giá hi\u1ec7n t\u1ea1i, s\u1ed1 ti\u1ec1n \u0111\u1ea7u t\u01b0 ho\u1eb7c \u0111òn b\u1ea9y không h\u1ee3p l\u1ec7
+2025-08-02 11:01:15,135 - INFO - Phân tích c\u1ea3m xúc cho PEPE/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.23)
+2025-08-02 11:01:15,222 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ADA/USDT (2h)
+2025-08-02 11:01:15,257 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BONK/USDT (30m)
+2025-08-02 11:01:15,286 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho HBAR/USDT (30m)
+2025-08-02 11:01:15,297 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:15,317 - INFO - H\u1ed7 tr\u1ee3: 0.6962, Kháng c\u1ef1: 0.7383
+2025-08-02 11:01:15,321 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho LINK/USDT (30m)
+2025-08-02 11:01:15,364 - INFO - Khuy\u1ebfn ngh\u1ecb cho ADA/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.15, Khung: 1h
+2025-08-02 11:01:15,375 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:15,408 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:15,435 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho LTC/USDT (1h)
+2025-08-02 11:01:15,460 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:15,463 - INFO - Phân tích c\u1ea3m xúc cho ADA/USDT: Trung l\u1eadp (Neutral) (Score: 0.38)
+2025-08-02 11:01:15,520 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:15,655 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BONK/USDT (2h)
+2025-08-02 11:01:15,689 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho HBAR/USDT (2h)
+2025-08-02 11:01:15,738 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:15,752 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho LTC/USDT (30m)
+2025-08-02 11:01:15,764 - INFO - H\u1ed7 tr\u1ee3: 2.464e-05, Kháng c\u1ef1: 2.716e-05
+2025-08-02 11:01:15,770 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:15,772 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TON/USDT (1h)
+2025-08-02 11:01:15,773 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho LINK/USDT (2h)
+2025-08-02 11:01:15,781 - INFO - Khuy\u1ebfn ngh\u1ecb cho BONK/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.02, Khung: 1h
+2025-08-02 11:01:15,813 - INFO - H\u1ed7 tr\u1ee3: 0.23677, Kháng c\u1ef1: 0.25541
+2025-08-02 11:01:15,813 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:15,845 - INFO - Khuy\u1ebfn ngh\u1ecb cho HBAR/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.6699999999999999, Khung: 1h
+2025-08-02 11:01:15,867 - ERROR - L\u1ed7i tính toán ch\u1ec9 s\u1ed1 giao d\u1ecbch: Giá hi\u1ec7n t\u1ea1i, s\u1ed1 ti\u1ec1n \u0111\u1ea7u t\u01b0 ho\u1eb7c \u0111òn b\u1ea9y không h\u1ee3p l\u1ec7
+2025-08-02 11:01:15,880 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:15,880 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:15,882 - INFO - Phân tích c\u1ea3m xúc cho BONK/USDT: Trung l\u1eadp (Neutral) (Score: 0.38)
+2025-08-02 11:01:15,885 - INFO - Phân tích c\u1ea3m xúc cho HBAR/USDT: Trung l\u1eadp (Neutral) (Score: 0.46)
+2025-08-02 11:01:15,889 - INFO - H\u1ed7 tr\u1ee3: 15.67, Kháng c\u1ef1: 16.8
+2025-08-02 11:01:15,893 - INFO - Khuy\u1ebfn ngh\u1ecb cho LINK/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.295, Khung: 1h
+2025-08-02 11:01:15,901 - INFO - Phân tích c\u1ea3m xúc cho LINK/USDT: Trung l\u1eadp (Neutral) (Score: 0.37)
+2025-08-02 11:01:16,055 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho LTC/USDT (2h)
+2025-08-02 11:01:16,109 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:16,120 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TREE/USDT (1h)
+2025-08-02 11:01:16,124 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho AVAX/USDT (1h)
+2025-08-02 11:01:16,127 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TON/USDT (30m)
+2025-08-02 11:01:16,135 - INFO - H\u1ed7 tr\u1ee3: 103.16, Kháng c\u1ef1: 108.47
+2025-08-02 11:01:16,143 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho UNI/USDT (1h)
+2025-08-02 11:01:16,214 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:16,224 - INFO - Khuy\u1ebfn ngh\u1ecb cho LTC/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.5149999999999999, Khung: 1h
+2025-08-02 11:01:16,306 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:16,328 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:16,339 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:16,345 - INFO - Phân tích c\u1ea3m xúc cho LTC/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.25)
+2025-08-02 11:01:16,513 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho AVAX/USDT (30m)
+2025-08-02 11:01:16,572 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:16,581 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho UNI/USDT (30m)
+2025-08-02 11:01:16,586 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TON/USDT (2h)
+2025-08-02 11:01:16,593 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho WIF/USDT (1h)
+2025-08-02 11:01:16,597 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TREE/USDT (30m)
+2025-08-02 11:01:16,730 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:16,745 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:16,752 - INFO - H\u1ed7 tr\u1ee3: 3.351, Kháng c\u1ef1: 3.698
+2025-08-02 11:01:16,765 - INFO - Khuy\u1ebfn ngh\u1ecb cho TON/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.7799999999999999, Khung: 1h
+2025-08-02 11:01:16,810 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:16,812 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:16,816 - INFO - Phân tích c\u1ea3m xúc cho TON/USDT: Tích c\u1ef1c (Bullish) (Score: 0.76)
+2025-08-02 11:01:16,843 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho AVAX/USDT (2h)
+2025-08-02 11:01:16,906 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:16,910 - INFO - H\u1ed7 tr\u1ee3: 21.02, Kháng c\u1ef1: 22.39
+2025-08-02 11:01:16,910 - INFO - Khuy\u1ebfn ngh\u1ecb cho AVAX/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.09999999999999999, Khung: 1h
+2025-08-02 11:01:16,916 - INFO - Phân tích c\u1ea3m xúc cho AVAX/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.17)
+2025-08-02 11:01:16,991 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho UNI/USDT (2h)
+2025-08-02 11:01:17,046 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:17,052 - INFO - H\u1ed7 tr\u1ee3: 8.843, Kháng c\u1ef1: 9.269
+2025-08-02 11:01:17,053 - INFO - Khuy\u1ebfn ngh\u1ecb cho UNI/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.155, Khung: 1h
+2025-08-02 11:01:17,063 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho XLM/USDT (1h)
+2025-08-02 11:01:17,069 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho WIF/USDT (30m)
+2025-08-02 11:01:17,072 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TREE/USDT (2h)
+2025-08-02 11:01:17,132 - INFO - Phân tích c\u1ea3m xúc cho UNI/USDT: Tích c\u1ef1c (Bullish) (Score: 0.97)
+2025-08-02 11:01:17,209 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:17,223 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho NEAR/USDT (1h)
+2025-08-02 11:01:17,223 - INFO - H\u1ed7 tr\u1ee3: 0.4731, Kháng c\u1ef1: 0.6072
+2025-08-02 11:01:17,224 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:17,229 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:17,232 - INFO - Khuy\u1ebfn ngh\u1ecb cho TREE/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.45999999999999996, Khung: 1h
+2025-08-02 11:01:17,269 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:17,272 - INFO - Phân tích c\u1ea3m xúc cho TREE/USDT: Trung l\u1eadp (Neutral) (Score: 0.57)
+2025-08-02 11:01:17,430 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho WIF/USDT (2h)
+2025-08-02 11:01:17,475 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:17,477 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ARB/USDT (1h)
+2025-08-02 11:01:17,488 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho NEAR/USDT (30m)
+2025-08-02 11:01:17,484 - INFO - H\u1ed7 tr\u1ee3: 0.845, Kháng c\u1ef1: 0.923
+2025-08-02 11:01:17,481 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho XLM/USDT (30m)
+2025-08-02 11:01:17,493 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho CRV/USDT (1h)
+2025-08-02 11:01:17,498 - INFO - Khuy\u1ebfn ngh\u1ecb cho WIF/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.005000000000000049, Khung: 1h
+2025-08-02 11:01:17,604 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:17,643 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:17,670 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:17,699 - INFO - Phân tích c\u1ea3m xúc cho WIF/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.28)
+2025-08-02 11:01:17,724 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:17,869 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ARB/USDT (30m)
+2025-08-02 11:01:17,921 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:17,932 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho XLM/USDT (2h)
+2025-08-02 11:01:17,938 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho APT/USDT (1h)
+2025-08-02 11:01:17,942 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho CRV/USDT (30m)
+2025-08-02 11:01:17,946 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho NEAR/USDT (2h)
+2025-08-02 11:01:18,031 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:18,110 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:18,117 - INFO - H\u1ed7 tr\u1ee3: 0.375, Kháng c\u1ef1: 0.4007
+2025-08-02 11:01:18,126 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:18,127 - INFO - Khuy\u1ebfn ngh\u1ecb cho XLM/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.11000000000000001, Khung: 1h
+2025-08-02 11:01:18,185 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:18,189 - INFO - Phân tích c\u1ea3m xúc cho XLM/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.08)
+2025-08-02 11:01:18,193 - INFO - H\u1ed7 tr\u1ee3: 2.352, Kháng c\u1ef1: 2.517
+2025-08-02 11:01:18,194 - INFO - Khuy\u1ebfn ngh\u1ecb cho NEAR/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.059999999999999984, Khung: 1h
+2025-08-02 11:01:18,203 - INFO - Phân tích c\u1ea3m xúc cho NEAR/USDT: Trung l\u1eadp (Neutral) (Score: 0.59)
+2025-08-02 11:01:18,242 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ARB/USDT (2h)
+2025-08-02 11:01:18,298 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:18,307 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho CRV/USDT (2h)
+2025-08-02 11:01:18,307 - INFO - H\u1ed7 tr\u1ee3: 0.3671, Kháng c\u1ef1: 0.3945
+2025-08-02 11:01:18,313 - INFO - Khuy\u1ebfn ngh\u1ecb cho ARB/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.385, Khung: 1h
+2025-08-02 11:01:18,351 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:18,361 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho APT/USDT (30m)
+2025-08-02 11:01:18,363 - INFO - Phân tích c\u1ea3m xúc cho ARB/USDT: Trung l\u1eadp (Neutral) (Score: 0.39)
+2025-08-02 11:01:18,364 - INFO - H\u1ed7 tr\u1ee3: 0.8596, Kháng c\u1ef1: 0.9359
+2025-08-02 11:01:18,383 - INFO - Khuy\u1ebfn ngh\u1ecb cho CRV/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.305, Khung: 1h
+2025-08-02 11:01:18,422 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:18,428 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SEI/USDT (1h)
+2025-08-02 11:01:18,458 - INFO - Phân tích c\u1ea3m xúc cho CRV/USDT: Trung l\u1eadp (Neutral) (Score: 0.42)
+2025-08-02 11:01:18,489 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho AAVE/USDT (1h)
+2025-08-02 11:01:18,500 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:18,530 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:18,624 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho APT/USDT (2h)
+2025-08-02 11:01:18,686 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:18,690 - INFO - H\u1ed7 tr\u1ee3: 4.107, Kháng c\u1ef1: 4.346
+2025-08-02 11:01:18,690 - INFO - Khuy\u1ebfn ngh\u1ecb cho APT/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.185, Khung: 1h
+2025-08-02 11:01:18,694 - INFO - Phân tích c\u1ea3m xúc cho APT/USDT: Tích c\u1ef1c (Bullish) (Score: 0.84)
+2025-08-02 11:01:18,736 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho AAVE/USDT (30m)
+2025-08-02 11:01:18,745 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho DOT/USDT (1h)
+2025-08-02 11:01:18,828 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:18,859 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:18,863 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho CFX/USDT (1h)
+2025-08-02 11:01:18,873 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SEI/USDT (30m)
+2025-08-02 11:01:18,965 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:18,968 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:18,980 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TRUMP/USDT (1h)
+2025-08-02 11:01:19,041 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:19,142 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho DOT/USDT (30m)
+2025-08-02 11:01:19,172 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SEI/USDT (2h)
+2025-08-02 11:01:19,240 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho CFX/USDT (30m)
+2025-08-02 11:01:19,255 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:19,262 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:19,274 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho AAVE/USDT (2h)
+2025-08-02 11:01:19,289 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TRUMP/USDT (30m)
+2025-08-02 11:01:19,331 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:19,352 - INFO - H\u1ed7 tr\u1ee3: 0.2756, Kháng c\u1ef1: 0.2961
+2025-08-02 11:01:19,417 - INFO - Khuy\u1ebfn ngh\u1ecb cho SEI/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.22000000000000003, Khung: 1h
+2025-08-02 11:01:19,426 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:19,454 - INFO - Phân tích c\u1ea3m xúc cho SEI/USDT: Trung l\u1eadp (Neutral) (Score: 0.63)
+2025-08-02 11:01:19,455 - INFO - H\u1ed7 tr\u1ee3: 249.09, Kháng c\u1ef1: 262.05
+2025-08-02 11:01:19,457 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:19,458 - INFO - Khuy\u1ebfn ngh\u1ecb cho AAVE/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.295, Khung: 1h
+2025-08-02 11:01:19,468 - INFO - Phân tích c\u1ea3m xúc cho AAVE/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.17)
+2025-08-02 11:01:19,541 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho DOT/USDT (2h)
+2025-08-02 11:01:19,599 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:19,609 - INFO - H\u1ed7 tr\u1ee3: 3.446, Kháng c\u1ef1: 3.692
+2025-08-02 11:01:19,609 - INFO - Khuy\u1ebfn ngh\u1ecb cho DOT/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.14, Khung: 1h
+2025-08-02 11:01:19,613 - INFO - Phân tích c\u1ea3m xúc cho DOT/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.27)
+2025-08-02 11:01:19,679 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho WLD/USDT (1h)
+2025-08-02 11:01:19,739 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho FLOKI/USDT (1h)
+2025-08-02 11:01:19,742 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:19,751 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho CFX/USDT (2h)
+2025-08-02 11:01:19,758 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TRUMP/USDT (2h)
+2025-08-02 11:01:19,847 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:19,875 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:19,886 - INFO - H\u1ed7 tr\u1ee3: 8.49, Kháng c\u1ef1: 8.95
+2025-08-02 11:01:19,890 - INFO - H\u1ed7 tr\u1ee3: 0.1867, Kháng c\u1ef1: 0.2147
+2025-08-02 11:01:19,890 - INFO - Khuy\u1ebfn ngh\u1ecb cho TRUMP/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.12, Khung: 1h
+2025-08-02 11:01:19,911 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:19,911 - INFO - Khuy\u1ebfn ngh\u1ecb cho CFX/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.6599999999999999, Khung: 1h
+2025-08-02 11:01:19,921 - INFO - Phân tích c\u1ea3m xúc cho TRUMP/USDT: Trung l\u1eadp (Neutral) (Score: 0.33)
+2025-08-02 11:01:19,925 - INFO - Phân tích c\u1ea3m xúc cho CFX/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.26)
+2025-08-02 11:01:20,001 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ONDO/USDT (1h)
+2025-08-02 11:01:20,060 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:20,095 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho FLOKI/USDT (30m)
+2025-08-02 11:01:20,148 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:20,160 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho WLD/USDT (30m)
+2025-08-02 11:01:20,173 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TAO/USDT (1h)
+2025-08-02 11:01:20,167 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho S/USDT (1h)
+2025-08-02 11:01:20,287 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:20,287 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:20,331 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:20,396 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ONDO/USDT (30m)
+2025-08-02 11:01:20,443 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:20,448 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho FLOKI/USDT (2h)
+2025-08-02 11:01:20,513 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:20,521 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TAO/USDT (30m)
+2025-08-02 11:01:20,532 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho WLD/USDT (2h)
+2025-08-02 11:01:20,538 - INFO - H\u1ed7 tr\u1ee3: 0.00010117, Kháng c\u1ef1: 0.00011024
+2025-08-02 11:01:20,556 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho S/USDT (30m)
+2025-08-02 11:01:20,560 - INFO - Khuy\u1ebfn ngh\u1ecb cho FLOKI/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.07499999999999998, Khung: 1h
+2025-08-02 11:01:20,608 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:20,630 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:20,646 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:20,648 - INFO - H\u1ed7 tr\u1ee3: 0.931, Kháng c\u1ef1: 0.999
+2025-08-02 11:01:20,648 - ERROR - L\u1ed7i tính toán ch\u1ec9 s\u1ed1 giao d\u1ecbch: Giá hi\u1ec7n t\u1ea1i, s\u1ed1 ti\u1ec1n \u0111\u1ea7u t\u01b0 ho\u1eb7c \u0111òn b\u1ea9y không h\u1ee3p l\u1ec7
+2025-08-02 11:01:20,651 - INFO - Khuy\u1ebfn ngh\u1ecb cho WLD/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.09999999999999999, Khung: 1h
+2025-08-02 11:01:20,651 - INFO - Phân tích c\u1ea3m xúc cho FLOKI/USDT: Trung l\u1eadp (Neutral) (Score: 0.65)
+2025-08-02 11:01:20,655 - INFO - Phân tích c\u1ea3m xúc cho WLD/USDT: Trung l\u1eadp (Neutral) (Score: 0.69)
+2025-08-02 11:01:20,698 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ONDO/USDT (2h)
+2025-08-02 11:01:20,727 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:20,729 - INFO - H\u1ed7 tr\u1ee3: 0.8666, Kháng c\u1ef1: 0.9264
+2025-08-02 11:01:20,729 - INFO - Khuy\u1ebfn ngh\u1ecb cho ONDO/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.11999999999999998, Khung: 1h
+2025-08-02 11:01:20,731 - INFO - Phân tích c\u1ea3m xúc cho ONDO/USDT: Trung l\u1eadp (Neutral) (Score: 0.57)
+2025-08-02 11:01:20,845 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SHIB/USDT (1h)
+2025-08-02 11:01:20,847 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TAO/USDT (2h)
+2025-08-02 11:01:20,870 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SYRUP/USDT (1h)
+2025-08-02 11:01:20,891 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:20,918 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:20,921 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BCH/USDT (1h)
+2025-08-02 11:01:20,923 - INFO - H\u1ed7 tr\u1ee3: 334.1, Kháng c\u1ef1: 354.9
+2025-08-02 11:01:20,946 - INFO - Khuy\u1ebfn ngh\u1ecb cho TAO/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.145, Khung: 1h
+2025-08-02 11:01:20,948 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:20,967 - INFO - Phân tích c\u1ea3m xúc cho TAO/USDT: Tích c\u1ef1c (Bullish) (Score: 0.90)
+2025-08-02 11:01:20,975 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:20,981 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho S/USDT (2h)
+2025-08-02 11:01:21,015 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:21,020 - INFO - H\u1ed7 tr\u1ee3: 0.2943, Kháng c\u1ef1: 0.3222
+2025-08-02 11:01:21,020 - INFO - Khuy\u1ebfn ngh\u1ecb cho S/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.42, Khung: 1h
+2025-08-02 11:01:21,022 - INFO - Phân tích c\u1ea3m xúc cho S/USDT: Trung l\u1eadp (Neutral) (Score: 0.61)
+2025-08-02 11:01:21,123 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SHIB/USDT (30m)
+2025-08-02 11:01:21,155 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:21,160 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SYRUP/USDT (30m)
+2025-08-02 11:01:21,177 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BCH/USDT (30m)
+2025-08-02 11:01:21,229 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:21,231 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:21,236 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho VIRTUAL/USDT (1h)
+2025-08-02 11:01:21,270 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ETHFI/USDT (1h)
+2025-08-02 11:01:21,271 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:21,301 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:21,423 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SHIB/USDT (2h)
+2025-08-02 11:01:21,475 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:21,478 - INFO - H\u1ed7 tr\u1ee3: 1.173e-05, Kháng c\u1ef1: 1.243e-05
+2025-08-02 11:01:21,478 - INFO - Khuy\u1ebfn ngh\u1ecb cho SHIB/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.05499999999999999, Khung: 1h
+2025-08-02 11:01:21,481 - ERROR - L\u1ed7i tính toán ch\u1ec9 s\u1ed1 giao d\u1ecbch: Giá hi\u1ec7n t\u1ea1i, s\u1ed1 ti\u1ec1n \u0111\u1ea7u t\u01b0 ho\u1eb7c \u0111òn b\u1ea9y không h\u1ee3p l\u1ec7
+2025-08-02 11:01:21,482 - INFO - Phân tích c\u1ea3m xúc cho SHIB/USDT: Tích c\u1ef1c (Bullish) (Score: 0.94)
+2025-08-02 11:01:21,494 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ETHFI/USDT (30m)
+2025-08-02 11:01:21,551 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:21,564 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SYRUP/USDT (2h)
+2025-08-02 11:01:21,624 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:21,629 - INFO - H\u1ed7 tr\u1ee3: 0.3975, Kháng c\u1ef1: 0.4385
+2025-08-02 11:01:21,634 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BCH/USDT (2h)
+2025-08-02 11:01:21,634 - INFO - Khuy\u1ebfn ngh\u1ecb cho SYRUP/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.695, Khung: 1h
+2025-08-02 11:01:21,668 - INFO - Phân tích c\u1ea3m xúc cho SYRUP/USDT: Tích c\u1ef1c (Bullish) (Score: 0.98)
+2025-08-02 11:01:21,699 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:21,706 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SPK/USDT (1h)
+2025-08-02 11:01:21,715 - INFO - H\u1ed7 tr\u1ee3: 527.8, Kháng c\u1ef1: 561.4
+2025-08-02 11:01:21,718 - INFO - Khuy\u1ebfn ngh\u1ecb cho BCH/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.245, Khung: 1h
+2025-08-02 11:01:21,751 - INFO - Phân tích c\u1ea3m xúc cho BCH/USDT: Tích c\u1ef1c (Bullish) (Score: 0.91)
+2025-08-02 11:01:21,774 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:21,791 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho VIRTUAL/USDT (30m)
+2025-08-02 11:01:21,791 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ETHFI/USDT (2h)
+2025-08-02 11:01:21,866 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:21,891 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:21,899 - INFO - H\u1ed7 tr\u1ee3: 0.922, Kháng c\u1ef1: 1.038
+2025-08-02 11:01:21,900 - INFO - Khuy\u1ebfn ngh\u1ecb cho ETHFI/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.17499999999999996, Khung: 1h
+2025-08-02 11:01:21,903 - INFO - Phân tích c\u1ea3m xúc cho ETHFI/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.26)
+2025-08-02 11:01:21,988 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho OP/USDT (1h)
+2025-08-02 11:01:22,076 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SPK/USDT (30m)
+2025-08-02 11:01:22,080 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:22,106 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho MAGIC/USDT (1h)
+2025-08-02 11:01:22,186 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:22,187 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:22,249 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho FIL/USDT (1h)
+2025-08-02 11:01:22,296 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:22,303 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho OP/USDT (30m)
+2025-08-02 11:01:22,374 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:22,405 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho VIRTUAL/USDT (2h)
+2025-08-02 11:01:22,462 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:22,467 - INFO - H\u1ed7 tr\u1ee3: 1.1652, Kháng c\u1ef1: 1.2443
+2025-08-02 11:01:22,469 - INFO - Khuy\u1ebfn ngh\u1ecb cho VIRTUAL/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.235, Khung: 1h
+2025-08-02 11:01:22,472 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SPK/USDT (2h)
+2025-08-02 11:01:22,473 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho MAGIC/USDT (30m)
+2025-08-02 11:01:22,480 - INFO - Phân tích c\u1ea3m xúc cho VIRTUAL/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.27)
+2025-08-02 11:01:22,547 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:22,570 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:22,579 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho OP/USDT (2h)
+2025-08-02 11:01:22,582 - INFO - H\u1ed7 tr\u1ee3: 0.087805, Kháng c\u1ef1: 0.10652
+2025-08-02 11:01:22,585 - INFO - Khuy\u1ebfn ngh\u1ecb cho SPK/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.6699999999999999, Khung: 1h
+2025-08-02 11:01:22,605 - INFO - Phân tích c\u1ea3m xúc cho SPK/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.23)
+2025-08-02 11:01:22,633 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:22,638 - INFO - H\u1ed7 tr\u1ee3: 0.622, Kháng c\u1ef1: 0.666
+2025-08-02 11:01:22,639 - INFO - Khuy\u1ebfn ngh\u1ecb cho OP/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.19, Khung: 1h
+2025-08-02 11:01:22,641 - INFO - Phân tích c\u1ea3m xúc cho OP/USDT: Trung l\u1eadp (Neutral) (Score: 0.52)
+2025-08-02 11:01:22,773 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ENS/USDT (1h)
+2025-08-02 11:01:22,798 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho FIL/USDT (30m)
+2025-08-02 11:01:22,838 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:22,855 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho FET/USDT (1h)
+2025-08-02 11:01:22,930 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho MAGIC/USDT (2h)
+2025-08-02 11:01:22,953 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:22,984 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:23,005 - INFO - H\u1ed7 tr\u1ee3: 0.1385, Kháng c\u1ef1: 0.1945
+2025-08-02 11:01:23,011 - INFO - Khuy\u1ebfn ngh\u1ecb cho MAGIC/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.8800000000000001, Khung: 1h
+2025-08-02 11:01:23,011 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:23,016 - INFO - Phân tích c\u1ea3m xúc cho MAGIC/USDT: Trung l\u1eadp (Neutral) (Score: 0.64)
+2025-08-02 11:01:23,031 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho MEME/USDT (1h)
+2025-08-02 11:01:23,055 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:23,182 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho FIL/USDT (2h)
+2025-08-02 11:01:23,243 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho FET/USDT (30m)
+2025-08-02 11:01:23,264 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho MEME/USDT (30m)
+2025-08-02 11:01:23,282 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:23,317 - INFO - H\u1ed7 tr\u1ee3: 2.218, Kháng c\u1ef1: 2.377
+2025-08-02 11:01:23,375 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ENS/USDT (30m)
+2025-08-02 11:01:23,375 - INFO - Khuy\u1ebfn ngh\u1ecb cho FIL/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.12500000000000003, Khung: 1h
+2025-08-02 11:01:23,377 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:23,378 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:23,416 - INFO - Phân tích c\u1ea3m xúc cho FIL/USDT: Trung l\u1eadp (Neutral) (Score: 0.56)
+2025-08-02 11:01:23,416 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:23,597 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho EUR/USDT (1h)
+2025-08-02 11:01:23,641 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho CAKE/USDT (1h)
+2025-08-02 11:01:23,706 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:23,711 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ENS/USDT (2h)
+2025-08-02 11:01:23,715 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho FET/USDT (2h)
+2025-08-02 11:01:23,726 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:23,758 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho MEME/USDT (2h)
+2025-08-02 11:01:23,850 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:23,873 - INFO - H\u1ed7 tr\u1ee3: 0.621, Kháng c\u1ef1: 0.666
+2025-08-02 11:01:23,881 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:23,881 - INFO - Khuy\u1ebfn ngh\u1ecb cho FET/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.295, Khung: 1h
+2025-08-02 11:01:23,903 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:23,905 - INFO - H\u1ed7 tr\u1ee3: 24.71, Kháng c\u1ef1: 26.34
+2025-08-02 11:01:23,911 - INFO - Khuy\u1ebfn ngh\u1ecb cho ENS/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.14500000000000002, Khung: 1h
+2025-08-02 11:01:23,913 - INFO - H\u1ed7 tr\u1ee3: 0.001787, Kháng c\u1ef1: 0.002037
+2025-08-02 11:01:23,913 - INFO - Khuy\u1ebfn ngh\u1ecb cho MEME/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.345, Khung: 1h
+2025-08-02 11:01:23,918 - INFO - Phân tích c\u1ea3m xúc cho FET/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.21)
+2025-08-02 11:01:23,921 - INFO - Phân tích c\u1ea3m xúc cho ENS/USDT: Trung l\u1eadp (Neutral) (Score: 0.64)
+2025-08-02 11:01:23,925 - ERROR - L\u1ed7i tính toán ch\u1ec9 s\u1ed1 giao d\u1ecbch: Giá hi\u1ec7n t\u1ea1i, s\u1ed1 ti\u1ec1n \u0111\u1ea7u t\u01b0 ho\u1eb7c \u0111òn b\u1ea9y không h\u1ee3p l\u1ec7
+2025-08-02 11:01:23,925 - INFO - Phân tích c\u1ea3m xúc cho MEME/USDT: Trung l\u1eadp (Neutral) (Score: 0.36)
+2025-08-02 11:01:24,132 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TIA/USDT (1h)
+2025-08-02 11:01:24,166 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho EUR/USDT (30m)
+2025-08-02 11:01:24,170 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PNUT/USDT (1h)
+2025-08-02 11:01:24,185 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:24,198 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho CAKE/USDT (30m)
+2025-08-02 11:01:24,259 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:24,273 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:24,283 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho USD1/USDT (1h)
+2025-08-02 11:01:24,306 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:24,340 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:24,419 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TIA/USDT (30m)
+2025-08-02 11:01:24,469 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:24,483 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PNUT/USDT (30m)
+2025-08-02 11:01:24,523 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:24,557 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho CAKE/USDT (2h)
+2025-08-02 11:01:24,598 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:24,601 - INFO - H\u1ed7 tr\u1ee3: 2.528, Kháng c\u1ef1: 2.666
+2025-08-02 11:01:24,601 - INFO - Khuy\u1ebfn ngh\u1ecb cho CAKE/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.009999999999999981, Khung: 1h
+2025-08-02 11:01:24,608 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho USD1/USDT (30m)
+2025-08-02 11:01:24,609 - INFO - Phân tích c\u1ea3m xúc cho CAKE/USDT: Trung l\u1eadp (Neutral) (Score: 0.44)
+2025-08-02 11:01:24,642 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho EUR/USDT (2h)
+2025-08-02 11:01:24,657 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TIA/USDT (2h)
+2025-08-02 11:01:24,666 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:24,731 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:24,760 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:24,764 - INFO - H\u1ed7 tr\u1ee3: 1.1392, Kháng c\u1ef1: 1.1593
+2025-08-02 11:01:24,764 - INFO - H\u1ed7 tr\u1ee3: 1.561, Kháng c\u1ef1: 1.677
+2025-08-02 11:01:24,765 - INFO - Khuy\u1ebfn ngh\u1ecb cho EUR/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.82, Khung: 1h
+2025-08-02 11:01:24,765 - INFO - Khuy\u1ebfn ngh\u1ecb cho TIA/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.1, Khung: 1h
+2025-08-02 11:01:24,770 - WARNING - Take profit không h\u1ee3p l\u1ec7, \u0111i\u1ec1u ch\u1ec9nh thành 1.1832
+2025-08-02 11:01:24,771 - INFO - Phân tích c\u1ea3m xúc cho EUR/USDT: Trung l\u1eadp (Neutral) (Score: 0.43)
+2025-08-02 11:01:24,771 - INFO - Phân tích c\u1ea3m xúc cho TIA/USDT: Trung l\u1eadp (Neutral) (Score: 0.68)
+2025-08-02 11:01:24,909 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho USD1/USDT (2h)
+2025-08-02 11:01:24,925 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PNUT/USDT (2h)
+2025-08-02 11:01:25,040 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PAXG/USDT (1h)
+2025-08-02 11:01:25,060 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:25,085 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho NEIRO/USDT (1h)
+2025-08-02 11:01:25,132 - INFO - H\u1ed7 tr\u1ee3: 0.2151, Kháng c\u1ef1: 0.2363
+2025-08-02 11:01:25,162 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:25,167 - INFO - Khuy\u1ebfn ngh\u1ecb cho PNUT/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.175, Khung: 1h
+2025-08-02 11:01:25,201 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:25,231 - INFO - Phân tích c\u1ea3m xúc cho PNUT/USDT: Trung l\u1eadp (Neutral) (Score: 0.34)
+2025-08-02 11:01:25,232 - INFO - H\u1ed7 tr\u1ee3: 0.9994, Kháng c\u1ef1: 0.9998
+2025-08-02 11:01:25,244 - INFO - Khuy\u1ebfn ngh\u1ecb cho USD1/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.215, Khung: 1h
+2025-08-02 11:01:25,245 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:01:25,253 - INFO - Phân tích c\u1ea3m xúc cho USD1/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.20)
+2025-08-02 11:01:25,253 - WARNING - C\u1eb7p USD1/USDT có support/resistance quá g\u1ea7n nhau
+2025-08-02 11:05:17,058 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho LDO/USDT (1h)
+2025-08-02 11:05:17,452 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho RUNE/USDT (1h)
+2025-08-02 11:05:17,556 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho IDEX/USDT (1h)
+2025-08-02 11:05:17,570 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho NEIRO/USDT (30m)
+2025-08-02 11:05:17,995 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PAXG/USDT (30m)
+2025-08-02 11:05:18,321 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:18,544 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:18,922 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:18,925 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:18,933 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:19,155 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho RUNE/USDT (30m)
+2025-08-02 11:05:19,157 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho NEIRO/USDT (2h)
+2025-08-02 11:05:19,460 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:19,484 - INFO - H\u1ed7 tr\u1ee3: 0.00036607, Kháng c\u1ef1: 0.00039745
+2025-08-02 11:05:19,493 - INFO - Khuy\u1ebfn ngh\u1ecb cho NEIRO/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.08000000000000002, Khung: 1h
+2025-08-02 11:05:19,497 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:19,568 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho LDO/USDT (30m)
+2025-08-02 11:05:19,569 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho IDEX/USDT (30m)
+2025-08-02 11:05:19,596 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PAXG/USDT (2h)
+2025-08-02 11:05:19,644 - ERROR - L\u1ed7i tính toán ch\u1ec9 s\u1ed1 giao d\u1ecbch: Giá hi\u1ec7n t\u1ea1i, s\u1ed1 ti\u1ec1n \u0111\u1ea7u t\u01b0 ho\u1eb7c \u0111òn b\u1ea9y không h\u1ee3p l\u1ec7
+2025-08-02 11:05:19,695 - INFO - Phân tích c\u1ea3m xúc cho NEIRO/USDT: Trung l\u1eadp (Neutral) (Score: 0.54)
+2025-08-02 11:05:19,842 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:19,907 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:19,917 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:19,927 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho RUNE/USDT (2h)
+2025-08-02 11:05:19,954 - INFO - H\u1ed7 tr\u1ee3: 3290.6, Kháng c\u1ef1: 3369.98
+2025-08-02 11:05:19,967 - INFO - Khuy\u1ebfn ngh\u1ecb cho PAXG/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.51, Khung: 1h
+2025-08-02 11:05:20,024 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:20,025 - INFO - Phân tích c\u1ea3m xúc cho PAXG/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.10)
+2025-08-02 11:05:20,031 - INFO - H\u1ed7 tr\u1ee3: 1.249, Kháng c\u1ef1: 1.326
+2025-08-02 11:05:20,034 - INFO - Khuy\u1ebfn ngh\u1ecb cho RUNE/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.13999999999999999, Khung: 1h
+2025-08-02 11:05:20,039 - INFO - Phân tích c\u1ea3m xúc cho RUNE/USDT: Trung l\u1eadp (Neutral) (Score: 0.65)
+2025-08-02 11:05:20,273 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho IDEX/USDT (2h)
+2025-08-02 11:05:20,279 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ERA/USDT (1h)
+2025-08-02 11:05:20,422 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:20,504 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SAHARA/USDT (1h)
+2025-08-02 11:05:20,521 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:20,539 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho LDO/USDT (2h)
+2025-08-02 11:05:20,559 - INFO - H\u1ed7 tr\u1ee3: 0.02455, Kháng c\u1ef1: 0.03995
+2025-08-02 11:05:20,571 - INFO - Khuy\u1ebfn ngh\u1ecb cho IDEX/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.62, Khung: 1h
+2025-08-02 11:05:20,701 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:20,702 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:20,710 - INFO - H\u1ed7 tr\u1ee3: 0.869, Kháng c\u1ef1: 0.953
+2025-08-02 11:05:20,713 - INFO - Khuy\u1ebfn ngh\u1ecb cho LDO/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.25499999999999995, Khung: 1h
+2025-08-02 11:05:20,716 - INFO - Phân tích c\u1ea3m xúc cho IDEX/USDT: Tích c\u1ef1c (Bullish) (Score: 0.73)
+2025-08-02 11:05:20,728 - INFO - Phân tích c\u1ea3m xúc cho LDO/USDT: Tích c\u1ef1c (Bullish) (Score: 0.85)
+2025-08-02 11:05:20,738 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ERA/USDT (30m)
+2025-08-02 11:05:20,891 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho EIGEN/USDT (1h)
+2025-08-02 11:05:20,954 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:20,987 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:21,333 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho RENDER/USDT (1h)
+2025-08-02 11:05:21,419 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:21,475 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho GALA/USDT (1h)
+2025-08-02 11:05:21,542 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SAHARA/USDT (30m)
+2025-08-02 11:05:21,543 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:21,569 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ERA/USDT (2h)
+2025-08-02 11:05:21,702 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:21,707 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:21,714 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho EIGEN/USDT (30m)
+2025-08-02 11:05:21,715 - INFO - H\u1ed7 tr\u1ee3: 0.9696, Kháng c\u1ef1: 1.0462
+2025-08-02 11:05:21,740 - INFO - Khuy\u1ebfn ngh\u1ecb cho ERA/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.21499999999999997, Khung: 1h
+2025-08-02 11:05:21,775 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:21,778 - INFO - Phân tích c\u1ea3m xúc cho ERA/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.27)
+2025-08-02 11:05:22,091 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho EIGEN/USDT (2h)
+2025-08-02 11:05:22,124 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho RENDER/USDT (30m)
+2025-08-02 11:05:22,198 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:22,203 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PENDLE/USDT (1h)
+2025-08-02 11:05:22,219 - INFO - H\u1ed7 tr\u1ee3: 1.064, Kháng c\u1ef1: 1.159
+2025-08-02 11:05:22,232 - INFO - Khuy\u1ebfn ngh\u1ecb cho EIGEN/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.255, Khung: 1h
+2025-08-02 11:05:22,233 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:22,281 - INFO - Phân tích c\u1ea3m xúc cho EIGEN/USDT: Tích c\u1ef1c (Bullish) (Score: 0.84)
+2025-08-02 11:05:22,308 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:22,313 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho GALA/USDT (30m)
+2025-08-02 11:05:22,323 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SAHARA/USDT (2h)
+2025-08-02 11:05:22,408 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:22,411 - INFO - H\u1ed7 tr\u1ee3: 0.08051, Kháng c\u1ef1: 0.08656
+2025-08-02 11:05:22,411 - INFO - Khuy\u1ebfn ngh\u1ecb cho SAHARA/USDT: MUA_M\u1ea0NH, T\u1ed5ng tr\u1ecdng s\u1ed1: 1.075, Khung: 1h
+2025-08-02 11:05:22,490 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:22,492 - WARNING - Take profit không h\u1ee3p l\u1ec7, \u0111i\u1ec1u ch\u1ec9nh thành 0.09179999999999999
+2025-08-02 11:05:22,493 - INFO - Phân tích c\u1ea3m xúc cho SAHARA/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.04)
+2025-08-02 11:05:22,641 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PENDLE/USDT (30m)
+2025-08-02 11:05:22,679 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho POL/USDT (1h)
+2025-08-02 11:05:22,749 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:22,770 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho RENDER/USDT (2h)
+2025-08-02 11:05:22,818 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BABY/USDT (1h)
+2025-08-02 11:05:22,823 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:22,854 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho GALA/USDT (2h)
+2025-08-02 11:05:22,878 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:22,894 - INFO - H\u1ed7 tr\u1ee3: 3.418, Kháng c\u1ef1: 3.664
+2025-08-02 11:05:22,907 - INFO - Khuy\u1ebfn ngh\u1ecb cho RENDER/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.009999999999999981, Khung: 1h
+2025-08-02 11:05:22,981 - INFO - Phân tích c\u1ea3m xúc cho RENDER/USDT: Tích c\u1ef1c (Bullish) (Score: 0.95)
+2025-08-02 11:05:23,001 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:23,011 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:23,026 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PENDLE/USDT (2h)
+2025-08-02 11:05:23,027 - INFO - H\u1ed7 tr\u1ee3: 0.01449, Kháng c\u1ef1: 0.01549
+2025-08-02 11:05:23,049 - INFO - Khuy\u1ebfn ngh\u1ecb cho GALA/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.07499999999999998, Khung: 1h
+2025-08-02 11:05:23,171 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:23,176 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho POL/USDT (30m)
+2025-08-02 11:05:23,238 - INFO - H\u1ed7 tr\u1ee3: 3.772, Kháng c\u1ef1: 4.083
+2025-08-02 11:05:23,265 - INFO - Khuy\u1ebfn ngh\u1ecb cho PENDLE/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.365, Khung: 1h
+2025-08-02 11:05:23,302 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BABY/USDT (30m)
+2025-08-02 11:05:23,338 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:23,407 - INFO - Phân tích c\u1ea3m xúc cho GALA/USDT: Trung l\u1eadp (Neutral) (Score: 0.68)
+2025-08-02 11:05:23,504 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:23,517 - INFO - Phân tích c\u1ea3m xúc cho PENDLE/USDT: Trung l\u1eadp (Neutral) (Score: 0.35)
+2025-08-02 11:05:23,787 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho OMNI/USDT (1h)
+2025-08-02 11:05:23,834 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho POL/USDT (2h)
+2025-08-02 11:05:23,987 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:23,994 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BABY/USDT (2h)
+2025-08-02 11:05:24,025 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:24,070 - INFO - H\u1ed7 tr\u1ee3: 0.1928, Kháng c\u1ef1: 0.2042
+2025-08-02 11:05:24,120 - INFO - Khuy\u1ebfn ngh\u1ecb cho POL/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.11999999999999998, Khung: 1h
+2025-08-02 11:05:24,191 - INFO - Phân tích c\u1ea3m xúc cho POL/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.03)
+2025-08-02 11:05:24,306 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ASR/USDT (1h)
+2025-08-02 11:05:24,376 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ALGO/USDT (1h)
+2025-08-02 11:05:24,378 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:24,451 - INFO - H\u1ed7 tr\u1ee3: 0.05283, Kháng c\u1ef1: 0.06588
+2025-08-02 11:05:24,452 - INFO - Khuy\u1ebfn ngh\u1ecb cho BABY/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.5199999999999999, Khung: 1h
+2025-08-02 11:05:24,802 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:24,820 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho OMNI/USDT (30m)
+2025-08-02 11:05:24,821 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:25,099 - INFO - Phân tích c\u1ea3m xúc cho BABY/USDT: Tích c\u1ef1c (Bullish) (Score: 0.87)
+2025-08-02 11:05:25,190 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ALGO/USDT (30m)
+2025-08-02 11:05:25,207 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ASR/USDT (30m)
+2025-08-02 11:05:25,225 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:25,422 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:25,423 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho OM/USDT (1h)
+2025-08-02 11:05:25,502 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:25,593 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:25,673 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho INJ/USDT (1h)
+2025-08-02 11:05:25,723 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho OMNI/USDT (2h)
+2025-08-02 11:05:25,870 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:25,888 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:25,888 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ALGO/USDT (2h)
+2025-08-02 11:05:25,893 - INFO - H\u1ed7 tr\u1ee3: 4.25, Kháng c\u1ef1: 4.8
+2025-08-02 11:05:25,904 - INFO - Khuy\u1ebfn ngh\u1ecb cho OMNI/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.48, Khung: 1h
+2025-08-02 11:05:25,940 - INFO - Phân tích c\u1ea3m xúc cho OMNI/USDT: Tích c\u1ef1c (Bullish) (Score: 0.93)
+2025-08-02 11:05:25,941 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:25,945 - INFO - H\u1ed7 tr\u1ee3: 0.2299, Kháng c\u1ef1: 0.2451
+2025-08-02 11:05:25,946 - INFO - Khuy\u1ebfn ngh\u1ecb cho ALGO/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.12500000000000003, Khung: 1h
+2025-08-02 11:05:25,949 - INFO - Phân tích c\u1ea3m xúc cho ALGO/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.29)
+2025-08-02 11:05:25,962 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ASR/USDT (2h)
+2025-08-02 11:05:26,010 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:26,013 - INFO - H\u1ed7 tr\u1ee3: 4.686, Kháng c\u1ef1: 5.632
+2025-08-02 11:05:26,014 - INFO - Khuy\u1ebfn ngh\u1ecb cho ASR/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.18999999999999997, Khung: 1h
+2025-08-02 11:05:26,016 - INFO - Phân tích c\u1ea3m xúc cho ASR/USDT: Tích c\u1ef1c (Bullish) (Score: 0.99)
+2025-08-02 11:05:26,125 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho OM/USDT (30m)
+2025-08-02 11:05:26,228 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:26,356 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho INJ/USDT (30m)
+2025-08-02 11:05:26,491 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho COMP/USDT (1h)
+2025-08-02 11:05:26,499 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:26,511 - INFO - Kh\u1edfi t\u1ea1o sàn Binance và t\u1ea3i 100 c\u1eb7p giao d\u1ecbch ph\u1ed5 bi\u1ebfn nh\u1ea5t
+2025-08-02 11:05:26,521 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ORDI/USDT (1h)
+2025-08-02 11:05:26,565 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ARKM/USDT (1h)
+2025-08-02 11:05:26,570 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:26,645 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:26,658 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho OM/USDT (2h)
+2025-08-02 11:05:26,689 - INFO - \u1ee8ng d\u1ee5ng Streamlit kh\u1edfi \u0111\u1ed9ng
+2025-08-02 11:05:26,690 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:26,750 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:26,759 - INFO - H\u1ed7 tr\u1ee3: 0.2251, Kháng c\u1ef1: 0.2519
+2025-08-02 11:05:26,760 - INFO - Khuy\u1ebfn ngh\u1ecb cho OM/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.55, Khung: 1h
+2025-08-02 11:05:26,767 - INFO - Phân tích c\u1ea3m xúc cho OM/USDT: Tích c\u1ef1c (Bullish) (Score: 0.96)
+2025-08-02 11:05:27,062 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho COMP/USDT (30m)
+2025-08-02 11:05:27,067 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho INJ/USDT (2h)
+2025-08-02 11:05:27,171 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:27,175 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ORDI/USDT (30m)
+2025-08-02 11:05:27,178 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:27,180 - INFO - H\u1ed7 tr\u1ee3: 12.22, Kháng c\u1ef1: 13.28
+2025-08-02 11:05:27,227 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:27,227 - INFO - Khuy\u1ebfn ngh\u1ecb cho INJ/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.04000000000000001, Khung: 1h
+2025-08-02 11:05:27,231 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ARKM/USDT (30m)
+2025-08-02 11:05:27,245 - INFO - Phân tích c\u1ea3m xúc cho INJ/USDT: Trung l\u1eadp (Neutral) (Score: 0.37)
+2025-08-02 11:05:27,290 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho VET/USDT (1h)
+2025-08-02 11:05:27,312 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:27,360 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:27,473 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho COMP/USDT (2h)
+2025-08-02 11:05:27,493 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ARKM/USDT (2h)
+2025-08-02 11:05:27,541 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ETC/USDT (1h)
+2025-08-02 11:05:27,544 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:27,570 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:27,578 - INFO - H\u1ed7 tr\u1ee3: 42.92, Kháng c\u1ef1: 45.0
+2025-08-02 11:05:27,588 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho VET/USDT (30m)
+2025-08-02 11:05:27,616 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:27,617 - INFO - H\u1ed7 tr\u1ee3: 0.442, Kháng c\u1ef1: 0.476
+2025-08-02 11:05:27,617 - INFO - Khuy\u1ebfn ngh\u1ecb cho COMP/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.41500000000000004, Khung: 1h
+2025-08-02 11:05:27,639 - INFO - Khuy\u1ebfn ngh\u1ecb cho ARKM/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.059999999999999984, Khung: 1h
+2025-08-02 11:05:27,665 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ORDI/USDT (2h)
+2025-08-02 11:05:27,665 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:27,666 - INFO - Phân tích c\u1ea3m xúc cho COMP/USDT: Trung l\u1eadp (Neutral) (Score: 0.52)
+2025-08-02 11:05:27,674 - INFO - Phân tích c\u1ea3m xúc cho ARKM/USDT: Tích c\u1ef1c (Bullish) (Score: 0.73)
+2025-08-02 11:05:27,727 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:27,732 - INFO - H\u1ed7 tr\u1ee3: 8.4, Kháng c\u1ef1: 9.136
+2025-08-02 11:05:27,734 - INFO - Khuy\u1ebfn ngh\u1ecb cho ORDI/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.21, Khung: 1h
+2025-08-02 11:05:27,743 - INFO - Phân tích c\u1ea3m xúc cho ORDI/USDT: Trung l\u1eadp (Neutral) (Score: 0.54)
+2025-08-02 11:05:27,828 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ETC/USDT (30m)
+2025-08-02 11:05:27,871 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:27,983 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho A2Z/USDT (1h)
+2025-08-02 11:05:27,990 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho VET/USDT (2h)
+2025-08-02 11:05:27,994 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho RAY/USDT (1h)
+2025-08-02 11:05:28,047 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:28,077 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:28,091 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ICP/USDT (1h)
+2025-08-02 11:05:28,100 - INFO - H\u1ed7 tr\u1ee3: 0.02213, Kháng c\u1ef1: 0.02349
+2025-08-02 11:05:28,105 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:28,119 - INFO - Khuy\u1ebfn ngh\u1ecb cho VET/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.035, Khung: 1h
+2025-08-02 11:05:28,123 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ETC/USDT (2h)
+2025-08-02 11:05:28,149 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:28,152 - INFO - Phân tích c\u1ea3m xúc cho VET/USDT: Tích c\u1ef1c (Bullish) (Score: 0.99)
+2025-08-02 11:05:28,171 - WARNING - C\u1eb7p VET/USDT có support/resistance quá g\u1ea7n nhau
+2025-08-02 11:05:28,192 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:28,195 - INFO - H\u1ed7 tr\u1ee3: 19.31, Kháng c\u1ef1: 20.36
+2025-08-02 11:05:28,196 - INFO - Khuy\u1ebfn ngh\u1ecb cho ETC/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.09999999999999999, Khung: 1h
+2025-08-02 11:05:28,198 - INFO - Phân tích c\u1ea3m xúc cho ETC/USDT: Tích c\u1ef1c (Bullish) (Score: 0.96)
+2025-08-02 11:05:28,277 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho A2Z/USDT (30m)
+2025-08-02 11:05:28,313 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:28,334 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho RAY/USDT (30m)
+2025-08-02 11:05:28,366 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:28,398 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho IOTX/USDT (1h)
+2025-08-02 11:05:28,458 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ATOM/USDT (1h)
+2025-08-02 11:05:28,459 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:28,510 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:28,562 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho A2Z/USDT (2h)
+2025-08-02 11:05:28,584 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:28,585 - INFO - H\u1ed7 tr\u1ee3: 0.004696, Kháng c\u1ef1: 0.005472
+2025-08-02 11:05:28,590 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho RAY/USDT (2h)
+2025-08-02 11:05:28,590 - INFO - Khuy\u1ebfn ngh\u1ecb cho A2Z/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.46499999999999997, Khung: 1h
+2025-08-02 11:05:28,642 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:28,642 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ICP/USDT (30m)
+2025-08-02 11:05:28,642 - WARNING - Take profit không h\u1ee3p l\u1ec7, \u0111i\u1ec1u ch\u1ec9nh thành 0.0102
+2025-08-02 11:05:28,655 - INFO - Phân tích c\u1ea3m xúc cho A2Z/USDT: Trung l\u1eadp (Neutral) (Score: 0.63)
+2025-08-02 11:05:28,655 - INFO - H\u1ed7 tr\u1ee3: 2.535, Kháng c\u1ef1: 2.735
+2025-08-02 11:05:28,687 - INFO - Khuy\u1ebfn ngh\u1ecb cho RAY/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.30999999999999994, Khung: 1h
+2025-08-02 11:05:28,709 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:28,717 - INFO - Phân tích c\u1ea3m xúc cho RAY/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.14)
+2025-08-02 11:05:28,737 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho IOTX/USDT (30m)
+2025-08-02 11:05:28,786 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:28,895 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ATOM/USDT (30m)
+2025-08-02 11:05:28,916 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ICP/USDT (2h)
+2025-08-02 11:05:28,925 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho JUP/USDT (1h)
+2025-08-02 11:05:29,040 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BANANAS31/USDT (1h)
+2025-08-02 11:05:29,078 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho IOTX/USDT (2h)
+2025-08-02 11:05:29,122 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:29,155 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:29,224 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:29,240 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:29,241 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:29,243 - INFO - H\u1ed7 tr\u1ee3: 4.903, Kháng c\u1ef1: 5.187
+2025-08-02 11:05:29,247 - INFO - H\u1ed7 tr\u1ee3: 0.02642, Kháng c\u1ef1: 0.02992
+2025-08-02 11:05:29,248 - INFO - Khuy\u1ebfn ngh\u1ecb cho IOTX/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.10999999999999999, Khung: 1h
+2025-08-02 11:05:29,247 - INFO - Khuy\u1ebfn ngh\u1ecb cho ICP/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.285, Khung: 1h
+2025-08-02 11:05:29,252 - INFO - Phân tích c\u1ea3m xúc cho IOTX/USDT: Trung l\u1eadp (Neutral) (Score: 0.59)
+2025-08-02 11:05:29,253 - WARNING - C\u1eb7p IOTX/USDT có support/resistance quá g\u1ea7n nhau
+2025-08-02 11:05:29,255 - INFO - Phân tích c\u1ea3m xúc cho ICP/USDT: Tích c\u1ef1c (Bullish) (Score: 0.81)
+2025-08-02 11:05:29,401 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BANANAS31/USDT (30m)
+2025-08-02 11:05:29,440 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:29,450 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho JUP/USDT (30m)
+2025-08-02 11:05:29,454 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho WBTC/USDT (1h)
+2025-08-02 11:05:29,535 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:29,536 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho INIT/USDT (1h)
+2025-08-02 11:05:29,539 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ATOM/USDT (2h)
+2025-08-02 11:05:29,542 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:29,584 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:29,612 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:29,615 - INFO - H\u1ed7 tr\u1ee3: 4.038, Kháng c\u1ef1: 4.263
+2025-08-02 11:05:29,615 - INFO - Khuy\u1ebfn ngh\u1ecb cho ATOM/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.08000000000000002, Khung: 1h
+2025-08-02 11:05:29,617 - INFO - Phân tích c\u1ea3m xúc cho ATOM/USDT: Trung l\u1eadp (Neutral) (Score: 0.69)
+2025-08-02 11:05:29,658 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BANANAS31/USDT (2h)
+2025-08-02 11:05:29,701 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:29,709 - INFO - H\u1ed7 tr\u1ee3: 0.007008, Kháng c\u1ef1: 0.007656
+2025-08-02 11:05:29,709 - INFO - Khuy\u1ebfn ngh\u1ecb cho BANANAS31/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.45999999999999996, Khung: 1h
+2025-08-02 11:05:29,712 - WARNING - Stop loss không h\u1ee3p l\u1ec7, \u0111i\u1ec1u ch\u1ec9nh thành 0.0099
+2025-08-02 11:05:29,713 - WARNING - Take profit không h\u1ee3p l\u1ec7, \u0111i\u1ec1u ch\u1ec9nh thành 0.0102
+2025-08-02 11:05:29,713 - INFO - Phân tích c\u1ea3m xúc cho BANANAS31/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.08)
+2025-08-02 11:05:29,713 - WARNING - C\u1eb7p BANANAS31/USDT có support/resistance quá g\u1ea7n nhau
+2025-08-02 11:05:29,735 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho JUP/USDT (2h)
+2025-08-02 11:05:29,787 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:29,793 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho INIT/USDT (30m)
+2025-08-02 11:05:29,797 - INFO - H\u1ed7 tr\u1ee3: 0.4408, Kháng c\u1ef1: 0.4819
+2025-08-02 11:05:29,811 - INFO - Khuy\u1ebfn ngh\u1ecb cho JUP/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.25499999999999995, Khung: 1h
+2025-08-02 11:05:29,817 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho HYPER/USDT (1h)
+2025-08-02 11:05:29,838 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:29,842 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho WBTC/USDT (30m)
+2025-08-02 11:05:29,882 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:29,888 - INFO - Phân tích c\u1ea3m xúc cho JUP/USDT: Trung l\u1eadp (Neutral) (Score: 0.64)
+2025-08-02 11:05:29,930 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:29,934 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho C/USDT (1h)
+2025-08-02 11:05:29,994 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:30,088 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho HYPER/USDT (30m)
+2025-08-02 11:05:30,091 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho INIT/USDT (2h)
+2025-08-02 11:05:30,131 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:30,153 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho WBTC/USDT (2h)
+2025-08-02 11:05:30,246 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho RESOLV/USDT (1h)
+2025-08-02 11:05:30,255 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:30,267 - INFO - H\u1ed7 tr\u1ee3: 112690.93, Kháng c\u1ef1: 115943.8
+2025-08-02 11:05:30,268 - INFO - Khuy\u1ebfn ngh\u1ecb cho WBTC/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.15999999999999998, Khung: 1h
+2025-08-02 11:05:30,268 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:30,289 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:30,295 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho C/USDT (30m)
+2025-08-02 11:05:30,297 - INFO - Phân tích c\u1ea3m xúc cho WBTC/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.12)
+2025-08-02 11:05:30,297 - INFO - H\u1ed7 tr\u1ee3: 0.36, Kháng c\u1ef1: 0.4087
+2025-08-02 11:05:30,336 - INFO - Khuy\u1ebfn ngh\u1ecb cho INIT/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.59, Khung: 1h
+2025-08-02 11:05:30,358 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:30,365 - INFO - Phân tích c\u1ea3m xúc cho INIT/USDT: Trung l\u1eadp (Neutral) (Score: 0.35)
+2025-08-02 11:05:30,472 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho HYPER/USDT (2h)
+2025-08-02 11:05:30,514 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho RESOLV/USDT (30m)
+2025-08-02 11:05:30,536 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:30,546 - INFO - H\u1ed7 tr\u1ee3: 0.376, Kháng c\u1ef1: 0.4002
+2025-08-02 11:05:30,561 - INFO - Khuy\u1ebfn ngh\u1ecb cho HYPER/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.29000000000000004, Khung: 1h
+2025-08-02 11:05:30,588 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BOME/USDT (1h)
+2025-08-02 11:05:30,589 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:30,601 - INFO - Phân tích c\u1ea3m xúc cho HYPER/USDT: Trung l\u1eadp (Neutral) (Score: 0.48)
+2025-08-02 11:05:30,632 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:30,676 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho KERNEL/USDT (1h)
+2025-08-02 11:05:30,712 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:30,847 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho C/USDT (2h)
+2025-08-02 11:05:30,884 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:30,888 - INFO - H\u1ed7 tr\u1ee3: 0.2681, Kháng c\u1ef1: 0.3088
+2025-08-02 11:05:30,888 - INFO - Khuy\u1ebfn ngh\u1ecb cho C/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.39, Khung: 1h
+2025-08-02 11:05:30,892 - INFO - Phân tích c\u1ea3m xúc cho C/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.22)
+2025-08-02 11:05:30,942 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho RESOLV/USDT (2h)
+2025-08-02 11:05:30,980 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:30,984 - INFO - H\u1ed7 tr\u1ee3: 0.1682, Kháng c\u1ef1: 0.1874
+2025-08-02 11:05:30,984 - INFO - Khuy\u1ebfn ngh\u1ecb cho RESOLV/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.61, Khung: 1h
+2025-08-02 11:05:30,986 - INFO - Phân tích c\u1ea3m xúc cho RESOLV/USDT: Tích c\u1ef1c (Bullish) (Score: 0.75)
+2025-08-02 11:05:31,203 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BOME/USDT (30m)
+2025-08-02 11:05:31,247 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:31,252 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho AR/USDT (1h)
+2025-08-02 11:05:31,287 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:31,291 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho KERNEL/USDT (30m)
+2025-08-02 11:05:31,325 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:31,401 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ATM/USDT (1h)
+2025-08-02 11:05:31,471 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:31,483 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho MKR/USDT (1h)
+2025-08-02 11:05:31,547 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BOME/USDT (2h)
+2025-08-02 11:05:31,565 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:31,607 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:31,609 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho AR/USDT (30m)
+2025-08-02 11:05:31,611 - INFO - H\u1ed7 tr\u1ee3: 0.00169, Kháng c\u1ef1: 0.001799
+2025-08-02 11:05:31,652 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:31,652 - INFO - Khuy\u1ebfn ngh\u1ecb cho BOME/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.19, Khung: 1h
+2025-08-02 11:05:31,660 - ERROR - L\u1ed7i tính toán ch\u1ec9 s\u1ed1 giao d\u1ecbch: Giá hi\u1ec7n t\u1ea1i, s\u1ed1 ti\u1ec1n \u0111\u1ea7u t\u01b0 ho\u1eb7c \u0111òn b\u1ea9y không h\u1ee3p l\u1ec7
+2025-08-02 11:05:31,661 - INFO - Phân tích c\u1ea3m xúc cho BOME/USDT: Tích c\u1ef1c (Bullish) (Score: 0.93)
+2025-08-02 11:05:31,715 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho KERNEL/USDT (2h)
+2025-08-02 11:05:31,784 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:31,790 - INFO - H\u1ed7 tr\u1ee3: 0.192, Kháng c\u1ef1: 0.2168
+2025-08-02 11:05:31,791 - INFO - Khuy\u1ebfn ngh\u1ecb cho KERNEL/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.39999999999999997, Khung: 1h
+2025-08-02 11:05:31,795 - INFO - Phân tích c\u1ea3m xúc cho KERNEL/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.06)
+2025-08-02 11:05:32,095 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ATM/USDT (30m)
+2025-08-02 11:05:32,148 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:33,210 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho AR/USDT (2h)
+2025-08-02 11:05:33,268 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:33,272 - INFO - H\u1ed7 tr\u1ee3: 6.32, Kháng c\u1ef1: 6.78
+2025-08-02 11:05:33,272 - INFO - Khuy\u1ebfn ngh\u1ecb cho AR/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.305, Khung: 1h
+2025-08-02 11:05:33,276 - INFO - Phân tích c\u1ea3m xúc cho AR/USDT: Trung l\u1eadp (Neutral) (Score: 0.52)
+2025-08-02 11:05:33,444 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho MKR/USDT (30m)
+2025-08-02 11:05:33,473 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:33,883 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho MDT/USDT (1h)
+2025-08-02 11:05:33,920 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:34,597 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho VIC/USDT (1h)
+2025-08-02 11:05:34,647 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:34,946 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ATM/USDT (2h)
+2025-08-02 11:05:35,002 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:35,006 - INFO - H\u1ed7 tr\u1ee3: 1.411, Kháng c\u1ef1: 1.68
+2025-08-02 11:05:35,006 - INFO - Khuy\u1ebfn ngh\u1ecb cho ATM/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.51, Khung: 1h
+2025-08-02 11:05:35,010 - INFO - Phân tích c\u1ea3m xúc cho ATM/USDT: Tích c\u1ef1c (Bullish) (Score: 0.93)
+2025-08-02 11:05:37,165 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PEOPLE/USDT (1h)
+2025-08-02 11:05:37,230 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:38,137 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho MKR/USDT (2h)
+2025-08-02 11:05:38,183 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:38,185 - INFO - H\u1ed7 tr\u1ee3: 1854.0, Kháng c\u1ef1: 1964.9
+2025-08-02 11:05:38,185 - INFO - Khuy\u1ebfn ngh\u1ecb cho MKR/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.18999999999999997, Khung: 1h
+2025-08-02 11:05:38,188 - INFO - Phân tích c\u1ea3m xúc cho MKR/USDT: Tích c\u1ef1c (Bullish) (Score: 0.81)
+2025-08-02 11:05:39,464 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho MDT/USDT (30m)
+2025-08-02 11:05:39,513 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:41,391 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho CVX/USDT (1h)
+2025-08-02 11:05:41,426 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:41,453 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho VIC/USDT (30m)
+2025-08-02 11:05:41,482 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:41,623 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PEOPLE/USDT (30m)
+2025-08-02 11:05:41,659 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:41,721 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho NOT/USDT (1h)
+2025-08-02 11:05:41,756 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:41,802 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho MDT/USDT (2h)
+2025-08-02 11:05:41,836 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:41,840 - INFO - H\u1ed7 tr\u1ee3: 0.02631, Kháng c\u1ef1: 0.03298
+2025-08-02 11:05:41,840 - INFO - Khuy\u1ebfn ngh\u1ecb cho MDT/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.75, Khung: 1h
+2025-08-02 11:05:41,842 - WARNING - Stop loss không h\u1ee3p l\u1ec7, \u0111i\u1ec1u ch\u1ec9nh thành 0.029699999999999997
+2025-08-02 11:05:41,843 - WARNING - Take profit không h\u1ee3p l\u1ec7, \u0111i\u1ec1u ch\u1ec9nh thành 0.0306
+2025-08-02 11:05:41,843 - INFO - Phân tích c\u1ea3m xúc cho MDT/USDT: Trung l\u1eadp (Neutral) (Score: 0.54)
+2025-08-02 11:05:41,843 - WARNING - C\u1eb7p MDT/USDT có support/resistance quá g\u1ea7n nhau
+2025-08-02 11:05:41,939 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho CVX/USDT (30m)
+2025-08-02 11:05:41,993 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:42,001 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PEOPLE/USDT (2h)
+2025-08-02 11:05:42,007 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho NOT/USDT (30m)
+2025-08-02 11:05:42,013 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho VIC/USDT (2h)
+2025-08-02 11:05:42,075 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:42,144 - INFO - H\u1ed7 tr\u1ee3: 0.01722, Kháng c\u1ef1: 0.01864
+2025-08-02 11:05:42,178 - INFO - Khuy\u1ebfn ngh\u1ecb cho PEOPLE/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.08000000000000002, Khung: 1h
+2025-08-02 11:05:42,179 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:42,206 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:42,214 - INFO - H\u1ed7 tr\u1ee3: 0.2613, Kháng c\u1ef1: 0.286
+2025-08-02 11:05:42,220 - INFO - Phân tích c\u1ea3m xúc cho PEOPLE/USDT: Trung l\u1eadp (Neutral) (Score: 0.65)
+2025-08-02 11:05:42,224 - INFO - Khuy\u1ebfn ngh\u1ecb cho VIC/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.66, Khung: 1h
+2025-08-02 11:05:42,225 - WARNING - C\u1eb7p PEOPLE/USDT có support/resistance quá g\u1ea7n nhau
+2025-08-02 11:05:42,235 - INFO - Phân tích c\u1ea3m xúc cho VIC/USDT: Tích c\u1ef1c (Bullish) (Score: 0.84)
+2025-08-02 11:05:42,521 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho CVX/USDT (2h)
+2025-08-02 11:05:42,570 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:42,572 - INFO - H\u1ed7 tr\u1ee3: 3.908, Kháng c\u1ef1: 4.347
+2025-08-02 11:05:42,573 - INFO - Khuy\u1ebfn ngh\u1ecb cho CVX/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.495, Khung: 1h
+2025-08-02 11:05:42,575 - INFO - Phân tích c\u1ea3m xúc cho CVX/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.11)
+2025-08-02 11:05:42,841 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho NOT/USDT (2h)
+2025-08-02 11:05:42,886 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:05:42,889 - INFO - H\u1ed7 tr\u1ee3: 0.001953, Kháng c\u1ef1: 0.002161
+2025-08-02 11:05:42,889 - INFO - Khuy\u1ebfn ngh\u1ecb cho NOT/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.75, Khung: 1h
+2025-08-02 11:05:42,893 - ERROR - L\u1ed7i tính toán ch\u1ec9 s\u1ed1 giao d\u1ecbch: Giá hi\u1ec7n t\u1ea1i, s\u1ed1 ti\u1ec1n \u0111\u1ea7u t\u01b0 ho\u1eb7c \u0111òn b\u1ea9y không h\u1ee3p l\u1ec7
+2025-08-02 11:05:42,894 - INFO - Phân tích c\u1ea3m xúc cho NOT/USDT: Trung l\u1eadp (Neutral) (Score: 0.42)
+2025-08-02 11:05:42,898 - INFO - Rà soát hoàn t\u1ea5t: 50 c\u1eb7p \u0111\u01b0\u1ee3c x\u1eed lý (t\u1ed1i \u0111a 25 mua + 25 bán)
+2025-08-02 11:05:45,768 - INFO - Kh\u1edfi t\u1ea1o sàn Binance và t\u1ea3i 100 c\u1eb7p giao d\u1ecbch ph\u1ed5 bi\u1ebfn nh\u1ea5t
+2025-08-02 11:05:45,778 - INFO - \u1ee8ng d\u1ee5ng Streamlit kh\u1edfi \u0111\u1ed9ng
+2025-08-02 11:06:18,184 - INFO - Kh\u1edfi t\u1ea1o sàn Binance và t\u1ea3i 100 c\u1eb7p giao d\u1ecbch ph\u1ed5 bi\u1ebfn nh\u1ea5t
+2025-08-02 11:06:18,194 - INFO - \u1ee8ng d\u1ee5ng Streamlit kh\u1edfi \u0111\u1ed9ng
+2025-08-02 11:06:29,790 - INFO - Kh\u1edfi t\u1ea1o sàn Binance và t\u1ea3i 100 c\u1eb7p giao d\u1ecbch ph\u1ed5 bi\u1ebfn nh\u1ea5t
+2025-08-02 11:06:29,800 - INFO - \u1ee8ng d\u1ee5ng Streamlit kh\u1edfi \u0111\u1ed9ng
+2025-08-02 11:06:39,022 - INFO - Kh\u1edfi t\u1ea1o sàn Binance và t\u1ea3i 100 c\u1eb7p giao d\u1ecbch ph\u1ed5 bi\u1ebfn nh\u1ea5t
+2025-08-02 11:06:39,031 - INFO - \u1ee8ng d\u1ee5ng Streamlit kh\u1edfi \u0111\u1ed9ng
+2025-08-02 11:06:49,583 - INFO - Kh\u1edfi t\u1ea1o sàn Binance và t\u1ea3i 100 c\u1eb7p giao d\u1ecbch ph\u1ed5 bi\u1ebfn nh\u1ea5t
+2025-08-02 11:06:49,592 - INFO - \u1ee8ng d\u1ee5ng Streamlit kh\u1edfi \u0111\u1ed9ng
+2025-08-02 11:06:49,806 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BTC/USDT (4h)
+2025-08-02 11:06:49,865 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:06:50,079 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BTC/USDT (2h)
+2025-08-02 11:06:50,129 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:06:50,316 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BTC/USDT (12h)
+2025-08-02 11:06:50,362 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:06:50,364 - INFO - H\u1ed7 tr\u1ee3: 112722.58, Kháng c\u1ef1: 118922.45
+2025-08-02 11:06:50,364 - INFO - Khuy\u1ebfn ngh\u1ecb cho BTC/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.72, Khung: 4h
+2025-08-02 11:06:50,365 - INFO - Phân tích c\u1ea3m xúc cho BTC/USDT: Tích c\u1ef1c (Bullish) (Score: 0.97)
+2025-08-02 11:07:00,201 - INFO - Kh\u1edfi t\u1ea1o sàn Binance và t\u1ea3i 100 c\u1eb7p giao d\u1ecbch ph\u1ed5 bi\u1ebfn nh\u1ea5t
+2025-08-02 11:07:00,216 - INFO - \u1ee8ng d\u1ee5ng Streamlit kh\u1edfi \u0111\u1ed9ng
+2025-08-02 11:07:04,516 - INFO - Kh\u1edfi t\u1ea1o sàn Binance và t\u1ea3i 100 c\u1eb7p giao d\u1ecbch ph\u1ed5 bi\u1ebfn nh\u1ea5t
+2025-08-02 11:07:04,523 - INFO - Phân tích c\u1ea3m xúc cho BTC/USDT: Trung l\u1eadp (Neutral) (Score: 0.34)
+2025-08-02 11:07:04,743 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ETH/USDT (4h)
+2025-08-02 11:07:04,788 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:04,824 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho USDC/USDT (4h)
+2025-08-02 11:07:04,857 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho FDUSD/USDT (4h)
+2025-08-02 11:07:04,866 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho XRP/USDT (4h)
+2025-08-02 11:07:04,946 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:04,976 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SOL/USDT (4h)
+2025-08-02 11:07:04,979 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:05,041 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:05,064 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:05,071 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ETH/USDT (2h)
+2025-08-02 11:07:05,142 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:05,249 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho FDUSD/USDT (2h)
+2025-08-02 11:07:05,298 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho USDC/USDT (2h)
+2025-08-02 11:07:05,319 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:05,329 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho XRP/USDT (2h)
+2025-08-02 11:07:05,419 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:05,438 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:05,443 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SOL/USDT (2h)
+2025-08-02 11:07:05,457 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ETH/USDT (12h)
+2025-08-02 11:07:05,535 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:05,550 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:05,559 - INFO - H\u1ed7 tr\u1ee3: 3431.75, Kháng c\u1ef1: 3878.67
+2025-08-02 11:07:05,560 - INFO - Khuy\u1ebfn ngh\u1ecb cho ETH/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.45499999999999996, Khung: 4h
+2025-08-02 11:07:05,564 - INFO - Phân tích c\u1ea3m xúc cho ETH/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.09)
+2025-08-02 11:07:05,620 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho FDUSD/USDT (12h)
+2025-08-02 11:07:05,662 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:05,664 - INFO - H\u1ed7 tr\u1ee3: 0.9974, Kháng c\u1ef1: 0.9983
+2025-08-02 11:07:05,664 - INFO - Khuy\u1ebfn ngh\u1ecb cho FDUSD/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.52, Khung: 4h
+2025-08-02 11:07:05,666 - WARNING - Take profit không h\u1ee3p l\u1ec7, \u0111i\u1ec1u ch\u1ec9nh thành 0.98
+2025-08-02 11:07:05,666 - INFO - Phân tích c\u1ea3m xúc cho FDUSD/USDT: Trung l\u1eadp (Neutral) (Score: 0.38)
+2025-08-02 11:07:05,666 - WARNING - C\u1eb7p FDUSD/USDT có support/resistance quá g\u1ea7n nhau
+2025-08-02 11:07:05,694 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho XRP/USDT (12h)
+2025-08-02 11:07:05,728 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho USDC/USDT (12h)
+2025-08-02 11:07:05,799 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:05,801 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:05,812 - INFO - H\u1ed7 tr\u1ee3: 0.9997, Kháng c\u1ef1: 1.0005
+2025-08-02 11:07:05,813 - INFO - Khuy\u1ebfn ngh\u1ecb cho USDC/USDT: MUA_M\u1ea0NH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.97, Khung: 4h
+2025-08-02 11:07:05,816 - INFO - H\u1ed7 tr\u1ee3: 2.892, Kháng c\u1ef1: 3.1784
+2025-08-02 11:07:05,816 - INFO - Khuy\u1ebfn ngh\u1ecb cho XRP/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.48, Khung: 4h
+2025-08-02 11:07:05,820 - WARNING - Take profit không h\u1ee3p l\u1ec7, \u0111i\u1ec1u ch\u1ec9nh thành 1.02
+2025-08-02 11:07:05,821 - INFO - Phân tích c\u1ea3m xúc cho USDC/USDT: Trung l\u1eadp (Neutral) (Score: 0.30)
+2025-08-02 11:07:05,821 - INFO - Phân tích c\u1ea3m xúc cho XRP/USDT: Trung l\u1eadp (Neutral) (Score: 0.37)
+2025-08-02 11:07:05,822 - WARNING - C\u1eb7p USDC/USDT có support/resistance quá g\u1ea7n nhau
+2025-08-02 11:07:05,843 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SOL/USDT (12h)
+2025-08-02 11:07:05,885 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:05,887 - INFO - H\u1ed7 tr\u1ee3: 159.2, Kháng c\u1ef1: 182.7
+2025-08-02 11:07:05,887 - INFO - Khuy\u1ebfn ngh\u1ecb cho SOL/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.72, Khung: 4h
+2025-08-02 11:07:05,889 - INFO - Phân tích c\u1ea3m xúc cho SOL/USDT: Trung l\u1eadp (Neutral) (Score: 0.56)
+2025-08-02 11:07:05,928 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ENA/USDT (4h)
+2025-08-02 11:07:05,983 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:05,991 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho DOGE/USDT (4h)
+2025-08-02 11:07:06,051 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:06,091 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BNB/USDT (4h)
+2025-08-02 11:07:06,136 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:06,145 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TRX/USDT (4h)
+2025-08-02 11:07:06,202 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:06,208 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SUI/USDT (4h)
+2025-08-02 11:07:06,257 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:06,313 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ENA/USDT (2h)
+2025-08-02 11:07:06,371 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:06,380 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BNB/USDT (2h)
+2025-08-02 11:07:06,447 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:06,456 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TRX/USDT (2h)
+2025-08-02 11:07:06,478 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:06,482 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SUI/USDT (2h)
+2025-08-02 11:07:06,541 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:06,547 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho DOGE/USDT (2h)
+2025-08-02 11:07:06,594 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:06,673 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ENA/USDT (12h)
+2025-08-02 11:07:06,730 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:06,737 - INFO - H\u1ed7 tr\u1ee3: 0.533, Kháng c\u1ef1: 0.6835
+2025-08-02 11:07:06,742 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TRX/USDT (12h)
+2025-08-02 11:07:06,743 - INFO - Khuy\u1ebfn ngh\u1ecb cho ENA/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.42499999999999993, Khung: 4h
+2025-08-02 11:07:06,747 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BNB/USDT (12h)
+2025-08-02 11:07:06,767 - INFO - Phân tích c\u1ea3m xúc cho ENA/USDT: Trung l\u1eadp (Neutral) (Score: 0.63)
+2025-08-02 11:07:06,835 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:06,845 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:06,848 - INFO - H\u1ed7 tr\u1ee3: 0.3203, Kháng c\u1ef1: 0.3403
+2025-08-02 11:07:06,850 - INFO - Khuy\u1ebfn ngh\u1ecb cho TRX/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.19, Khung: 4h
+2025-08-02 11:07:06,852 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SUI/USDT (12h)
+2025-08-02 11:07:06,854 - INFO - H\u1ed7 tr\u1ee3: 744.69, Kháng c\u1ef1: 814.8
+2025-08-02 11:07:06,870 - INFO - Khuy\u1ebfn ngh\u1ecb cho BNB/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.575, Khung: 4h
+2025-08-02 11:07:06,876 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho DOGE/USDT (12h)
+2025-08-02 11:07:06,919 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:06,954 - INFO - H\u1ed7 tr\u1ee3: 3.3543, Kháng c\u1ef1: 3.9609
+2025-08-02 11:07:06,972 - INFO - Phân tích c\u1ea3m xúc cho TRX/USDT: Tích c\u1ef1c (Bullish) (Score: 0.91)
+2025-08-02 11:07:06,981 - INFO - Khuy\u1ebfn ngh\u1ecb cho SUI/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.59, Khung: 4h
+2025-08-02 11:07:06,981 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:06,991 - INFO - H\u1ed7 tr\u1ee3: 0.19583, Kháng c\u1ef1: 0.22655
+2025-08-02 11:07:06,992 - INFO - Phân tích c\u1ea3m xúc cho BNB/USDT: Trung l\u1eadp (Neutral) (Score: 0.43)
+2025-08-02 11:07:06,992 - INFO - Khuy\u1ebfn ngh\u1ecb cho DOGE/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.6499999999999999, Khung: 4h
+2025-08-02 11:07:06,999 - INFO - Phân tích c\u1ea3m xúc cho SUI/USDT: Trung l\u1eadp (Neutral) (Score: 0.40)
+2025-08-02 11:07:07,008 - INFO - Phân tích c\u1ea3m xúc cho DOGE/USDT: Trung l\u1eadp (Neutral) (Score: 0.36)
+2025-08-02 11:07:07,107 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PENGU/USDT (4h)
+2025-08-02 11:07:07,170 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:07,244 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BONK/USDT (4h)
+2025-08-02 11:07:07,291 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PEPE/USDT (4h)
+2025-08-02 11:07:07,306 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:07,311 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho LINK/USDT (4h)
+2025-08-02 11:07:07,318 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ADA/USDT (4h)
+2025-08-02 11:07:07,385 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:07,451 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:07,493 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:07,566 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PENGU/USDT (2h)
+2025-08-02 11:07:07,627 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:07,640 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BONK/USDT (2h)
+2025-08-02 11:07:07,691 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:07,733 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PEPE/USDT (2h)
+2025-08-02 11:07:07,742 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho LINK/USDT (2h)
+2025-08-02 11:07:07,779 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ADA/USDT (2h)
+2025-08-02 11:07:07,871 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:07,898 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:07,916 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:07,930 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PENGU/USDT (12h)
+2025-08-02 11:07:07,985 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:07,989 - INFO - H\u1ed7 tr\u1ee3: 0.032379, Kháng c\u1ef1: 0.040294
+2025-08-02 11:07:07,989 - INFO - Khuy\u1ebfn ngh\u1ecb cho PENGU/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.535, Khung: 4h
+2025-08-02 11:07:07,992 - WARNING - Take profit không h\u1ee3p l\u1ec7, \u0111i\u1ec1u ch\u1ec9nh thành 0.0408
+2025-08-02 11:07:07,993 - INFO - Phân tích c\u1ea3m xúc cho PENGU/USDT: Trung l\u1eadp (Neutral) (Score: 0.45)
+2025-08-02 11:07:08,035 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BONK/USDT (12h)
+2025-08-02 11:07:08,097 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:08,100 - INFO - H\u1ed7 tr\u1ee3: 2.464e-05, Kháng c\u1ef1: 3.005e-05
+2025-08-02 11:07:08,101 - INFO - Khuy\u1ebfn ngh\u1ecb cho BONK/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.06999999999999992, Khung: 4h
+2025-08-02 11:07:08,103 - ERROR - L\u1ed7i tính toán ch\u1ec9 s\u1ed1 giao d\u1ecbch: Giá hi\u1ec7n t\u1ea1i, s\u1ed1 ti\u1ec1n \u0111\u1ea7u t\u01b0 ho\u1eb7c \u0111òn b\u1ea9y không h\u1ee3p l\u1ec7
+2025-08-02 11:07:08,103 - INFO - Phân tích c\u1ea3m xúc cho BONK/USDT: Trung l\u1eadp (Neutral) (Score: 0.35)
+2025-08-02 11:07:08,123 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PEPE/USDT (12h)
+2025-08-02 11:07:08,170 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:08,174 - INFO - H\u1ed7 tr\u1ee3: 1.004e-05, Kháng c\u1ef1: 1.166e-05
+2025-08-02 11:07:08,177 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho LINK/USDT (12h)
+2025-08-02 11:07:08,182 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ADA/USDT (12h)
+2025-08-02 11:07:08,182 - INFO - Khuy\u1ebfn ngh\u1ecb cho PEPE/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.5099999999999999, Khung: 4h
+2025-08-02 11:07:08,224 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho HBAR/USDT (4h)
+2025-08-02 11:07:08,259 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:08,287 - ERROR - L\u1ed7i tính toán ch\u1ec9 s\u1ed1 giao d\u1ecbch: Giá hi\u1ec7n t\u1ea1i, s\u1ed1 ti\u1ec1n \u0111\u1ea7u t\u01b0 ho\u1eb7c \u0111òn b\u1ea9y không h\u1ee3p l\u1ec7
+2025-08-02 11:07:08,288 - INFO - H\u1ed7 tr\u1ee3: 0.6962, Kháng c\u1ef1: 0.7898
+2025-08-02 11:07:08,306 - INFO - Phân tích c\u1ea3m xúc cho PEPE/USDT: Tích c\u1ef1c (Bullish) (Score: 0.79)
+2025-08-02 11:07:08,307 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:08,325 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:08,329 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho LTC/USDT (4h)
+2025-08-02 11:07:08,329 - INFO - Khuy\u1ebfn ngh\u1ecb cho ADA/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.49, Khung: 4h
+2025-08-02 11:07:08,335 - INFO - H\u1ed7 tr\u1ee3: 15.67, Kháng c\u1ef1: 18.24
+2025-08-02 11:07:08,357 - INFO - Khuy\u1ebfn ngh\u1ecb cho LINK/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.6499999999999999, Khung: 4h
+2025-08-02 11:07:08,372 - INFO - Phân tích c\u1ea3m xúc cho ADA/USDT: Trung l\u1eadp (Neutral) (Score: 0.32)
+2025-08-02 11:07:08,414 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:08,415 - INFO - Phân tích c\u1ea3m xúc cho LINK/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.04)
+2025-08-02 11:07:08,556 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho HBAR/USDT (2h)
+2025-08-02 11:07:08,586 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:08,609 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho LTC/USDT (2h)
+2025-08-02 11:07:08,638 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:08,644 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TON/USDT (4h)
+2025-08-02 11:07:08,676 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:08,680 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho AVAX/USDT (4h)
+2025-08-02 11:07:08,686 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho UNI/USDT (4h)
+2025-08-02 11:07:08,721 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:08,770 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:08,867 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho HBAR/USDT (12h)
+2025-08-02 11:07:08,901 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:08,908 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TON/USDT (2h)
+2025-08-02 11:07:08,910 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho LTC/USDT (12h)
+2025-08-02 11:07:08,913 - INFO - H\u1ed7 tr\u1ee3: 0.23677, Kháng c\u1ef1: 0.279
+2025-08-02 11:07:08,932 - INFO - Khuy\u1ebfn ngh\u1ecb cho HBAR/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.7050000000000001, Khung: 4h
+2025-08-02 11:07:08,970 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:08,979 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:08,982 - INFO - Phân tích c\u1ea3m xúc cho HBAR/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.14)
+2025-08-02 11:07:08,982 - INFO - H\u1ed7 tr\u1ee3: 103.16, Kháng c\u1ef1: 111.86
+2025-08-02 11:07:08,984 - INFO - Khuy\u1ebfn ngh\u1ecb cho LTC/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.285, Khung: 4h
+2025-08-02 11:07:08,987 - INFO - Phân tích c\u1ea3m xúc cho LTC/USDT: Tích c\u1ef1c (Bullish) (Score: 0.73)
+2025-08-02 11:07:08,994 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho AVAX/USDT (2h)
+2025-08-02 11:07:09,026 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:09,032 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho UNI/USDT (2h)
+2025-08-02 11:07:09,061 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:09,188 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TON/USDT (12h)
+2025-08-02 11:07:09,218 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:09,221 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TREE/USDT (4h)
+2025-08-02 11:07:09,224 - INFO - H\u1ed7 tr\u1ee3: 3.263, Kháng c\u1ef1: 3.698
+2025-08-02 11:07:09,226 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho XLM/USDT (4h)
+2025-08-02 11:07:09,228 - INFO - Khuy\u1ebfn ngh\u1ecb cho TON/USDT: MUA_M\u1ea0NH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.99, Khung: 4h
+2025-08-02 11:07:09,245 - ERROR - L\u1ed7i tính toán ch\u1ec9 báo: index 14 is out of bounds for axis 0 with size 10
+2025-08-02 11:07:09,266 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho AVAX/USDT (12h)
+2025-08-02 11:07:09,275 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:09,292 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho UNI/USDT (12h)
+2025-08-02 11:07:09,345 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:09,354 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:09,354 - INFO - Phân tích c\u1ea3m xúc cho TON/USDT: Trung l\u1eadp (Neutral) (Score: 0.43)
+2025-08-02 11:07:09,362 - INFO - H\u1ed7 tr\u1ee3: 8.843, Kháng c\u1ef1: 10.504
+2025-08-02 11:07:09,363 - INFO - H\u1ed7 tr\u1ee3: 21.02, Kháng c\u1ef1: 24.51
+2025-08-02 11:07:09,365 - WARNING - Không th\u1ec3 tính toán ch\u1ec9 báo cho TREE/USDT (4h)
+2025-08-02 11:07:09,365 - INFO - Khuy\u1ebfn ngh\u1ecb cho UNI/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.47, Khung: 4h
+2025-08-02 11:07:09,366 - INFO - Khuy\u1ebfn ngh\u1ecb cho AVAX/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.59, Khung: 4h
+2025-08-02 11:07:09,376 - INFO - Phân tích c\u1ea3m xúc cho UNI/USDT: Trung l\u1eadp (Neutral) (Score: 0.57)
+2025-08-02 11:07:09,380 - INFO - Phân tích c\u1ea3m xúc cho AVAX/USDT: Tích c\u1ef1c (Bullish) (Score: 0.74)
+2025-08-02 11:07:09,537 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho XLM/USDT (2h)
+2025-08-02 11:07:09,597 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:09,599 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TREE/USDT (2h)
+2025-08-02 11:07:09,604 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ARB/USDT (4h)
+2025-08-02 11:07:09,612 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho NEAR/USDT (4h)
+2025-08-02 11:07:09,618 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho WIF/USDT (4h)
+2025-08-02 11:07:09,670 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:09,759 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:09,796 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:09,800 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:09,956 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho XLM/USDT (12h)
+2025-08-02 11:07:10,000 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:10,002 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ARB/USDT (2h)
+2025-08-02 11:07:10,005 - INFO - H\u1ed7 tr\u1ee3: 0.375, Kháng c\u1ef1: 0.4289
+2025-08-02 11:07:10,006 - INFO - Khuy\u1ebfn ngh\u1ecb cho XLM/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.42, Khung: 4h
+2025-08-02 11:07:10,057 - INFO - Phân tích c\u1ea3m xúc cho XLM/USDT: Trung l\u1eadp (Neutral) (Score: 0.42)
+2025-08-02 11:07:10,062 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho WIF/USDT (2h)
+2025-08-02 11:07:10,063 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:10,070 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho NEAR/USDT (2h)
+2025-08-02 11:07:10,077 - WARNING - D\u1eef li\u1ec7u không \u0111\u1ee7 ho\u1eb7c không bi\u1ebfn \u0111\u1ed9ng cho TREE/USDT
+2025-08-02 11:07:10,133 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:10,140 - WARNING - Không th\u1ec3 l\u1ea5y d\u1eef li\u1ec7u cho TREE/USDT (12h)
+2025-08-02 11:07:10,184 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:10,186 - INFO - H\u1ed7 tr\u1ee3: 0.473, Kháng c\u1ef1: 0.6072
+2025-08-02 11:07:10,189 - INFO - Khuy\u1ebfn ngh\u1ecb cho TREE/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.06, Khung: 4h
+2025-08-02 11:07:10,194 - INFO - Phân tích c\u1ea3m xúc cho TREE/USDT: Trung l\u1eadp (Neutral) (Score: 0.66)
+2025-08-02 11:07:10,326 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ARB/USDT (12h)
+2025-08-02 11:07:10,378 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:10,387 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho WIF/USDT (12h)
+2025-08-02 11:07:10,388 - INFO - H\u1ed7 tr\u1ee3: 0.3671, Kháng c\u1ef1: 0.4316
+2025-08-02 11:07:10,395 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho CRV/USDT (4h)
+2025-08-02 11:07:10,396 - INFO - Khuy\u1ebfn ngh\u1ecb cho ARB/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.7399999999999999, Khung: 4h
+2025-08-02 11:07:10,452 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:10,477 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho NEAR/USDT (12h)
+2025-08-02 11:07:10,512 - INFO - H\u1ed7 tr\u1ee3: 0.845, Kháng c\u1ef1: 1.011
+2025-08-02 11:07:10,514 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:10,515 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho APT/USDT (4h)
+2025-08-02 11:07:10,515 - INFO - Phân tích c\u1ea3m xúc cho ARB/USDT: Tích c\u1ef1c (Bullish) (Score: 0.74)
+2025-08-02 11:07:10,527 - INFO - Khuy\u1ebfn ngh\u1ecb cho WIF/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.59, Khung: 4h
+2025-08-02 11:07:10,578 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:10,640 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:10,643 - INFO - H\u1ed7 tr\u1ee3: 2.352, Kháng c\u1ef1: 2.739
+2025-08-02 11:07:10,649 - INFO - Khuy\u1ebfn ngh\u1ecb cho NEAR/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.6699999999999999, Khung: 4h
+2025-08-02 11:07:10,655 - INFO - Phân tích c\u1ea3m xúc cho WIF/USDT: Trung l\u1eadp (Neutral) (Score: 0.46)
+2025-08-02 11:07:10,659 - INFO - Phân tích c\u1ea3m xúc cho NEAR/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.01)
+2025-08-02 11:07:10,769 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho CRV/USDT (2h)
+2025-08-02 11:07:10,831 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:10,840 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho APT/USDT (2h)
+2025-08-02 11:07:10,868 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:10,872 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho AAVE/USDT (4h)
+2025-08-02 11:07:10,895 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho CFX/USDT (4h)
+2025-08-02 11:07:10,908 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:10,946 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SEI/USDT (4h)
+2025-08-02 11:07:10,994 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:11,014 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:11,112 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho CRV/USDT (12h)
+2025-08-02 11:07:11,163 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho APT/USDT (12h)
+2025-08-02 11:07:11,206 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho AAVE/USDT (2h)
+2025-08-02 11:07:11,215 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:11,244 - INFO - H\u1ed7 tr\u1ee3: 0.8596, Kháng c\u1ef1: 1.071
+2025-08-02 11:07:11,257 - INFO - Khuy\u1ebfn ngh\u1ecb cho CRV/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.39499999999999996, Khung: 4h
+2025-08-02 11:07:11,280 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:11,296 - INFO - H\u1ed7 tr\u1ee3: 4.107, Kháng c\u1ef1: 4.624
+2025-08-02 11:07:11,301 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho CFX/USDT (2h)
+2025-08-02 11:07:11,302 - INFO - Khuy\u1ebfn ngh\u1ecb cho APT/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.7299999999999999, Khung: 4h
+2025-08-02 11:07:11,326 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:11,382 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:11,394 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SEI/USDT (2h)
+2025-08-02 11:07:11,423 - INFO - Phân tích c\u1ea3m xúc cho CRV/USDT: Trung l\u1eadp (Neutral) (Score: 0.56)
+2025-08-02 11:07:11,448 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:11,448 - INFO - Phân tích c\u1ea3m xúc cho APT/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.18)
+2025-08-02 11:07:11,586 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho AAVE/USDT (12h)
+2025-08-02 11:07:11,639 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:11,644 - INFO - H\u1ed7 tr\u1ee3: 249.09, Kháng c\u1ef1: 284.82
+2025-08-02 11:07:11,648 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho CFX/USDT (12h)
+2025-08-02 11:07:11,648 - INFO - Khuy\u1ebfn ngh\u1ecb cho AAVE/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.595, Khung: 4h
+2025-08-02 11:07:11,678 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SEI/USDT (12h)
+2025-08-02 11:07:11,708 - INFO - Phân tích c\u1ea3m xúc cho AAVE/USDT: Trung l\u1eadp (Neutral) (Score: 0.60)
+2025-08-02 11:07:11,714 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:11,732 - INFO - H\u1ed7 tr\u1ee3: 0.1867, Kháng c\u1ef1: 0.2341
+2025-08-02 11:07:11,732 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:11,734 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho DOT/USDT (4h)
+2025-08-02 11:07:11,736 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TRUMP/USDT (4h)
+2025-08-02 11:07:11,736 - INFO - Khuy\u1ebfn ngh\u1ecb cho CFX/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.36000000000000004, Khung: 4h
+2025-08-02 11:07:11,739 - INFO - H\u1ed7 tr\u1ee3: 0.2756, Kháng c\u1ef1: 0.3249
+2025-08-02 11:07:11,771 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:11,786 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:11,786 - INFO - Khuy\u1ebfn ngh\u1ecb cho SEI/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.6199999999999999, Khung: 4h
+2025-08-02 11:07:11,786 - INFO - Phân tích c\u1ea3m xúc cho CFX/USDT: Trung l\u1eadp (Neutral) (Score: 0.49)
+2025-08-02 11:07:11,794 - INFO - Phân tích c\u1ea3m xúc cho SEI/USDT: Tích c\u1ef1c (Bullish) (Score: 0.76)
+2025-08-02 11:07:11,988 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho FLOKI/USDT (4h)
+2025-08-02 11:07:12,049 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho DOT/USDT (2h)
+2025-08-02 11:07:12,050 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:12,102 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:12,109 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TRUMP/USDT (2h)
+2025-08-02 11:07:12,129 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho WLD/USDT (4h)
+2025-08-02 11:07:12,148 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ONDO/USDT (4h)
+2025-08-02 11:07:12,217 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:12,236 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:12,300 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:12,371 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho DOT/USDT (12h)
+2025-08-02 11:07:12,428 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:12,435 - INFO - H\u1ed7 tr\u1ee3: 3.446, Kháng c\u1ef1: 3.921
+2025-08-02 11:07:12,436 - INFO - Khuy\u1ebfn ngh\u1ecb cho DOT/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.55, Khung: 4h
+2025-08-02 11:07:12,446 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TRUMP/USDT (12h)
+2025-08-02 11:07:12,449 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho FLOKI/USDT (2h)
+2025-08-02 11:07:12,461 - INFO - Phân tích c\u1ea3m xúc cho DOT/USDT: Trung l\u1eadp (Neutral) (Score: 0.62)
+2025-08-02 11:07:12,514 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho WLD/USDT (2h)
+2025-08-02 11:07:12,553 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:12,595 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:12,607 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:12,617 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ONDO/USDT (2h)
+2025-08-02 11:07:12,623 - INFO - H\u1ed7 tr\u1ee3: 8.49, Kháng c\u1ef1: 9.53
+2025-08-02 11:07:12,624 - INFO - Khuy\u1ebfn ngh\u1ecb cho TRUMP/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.5299999999999999, Khung: 4h
+2025-08-02 11:07:12,637 - INFO - Phân tích c\u1ea3m xúc cho TRUMP/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.11)
+2025-08-02 11:07:12,651 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:12,790 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho FLOKI/USDT (12h)
+2025-08-02 11:07:12,842 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:12,851 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ONDO/USDT (12h)
+2025-08-02 11:07:12,855 - INFO - H\u1ed7 tr\u1ee3: 0.00010117, Kháng c\u1ef1: 0.000122
+2025-08-02 11:07:12,858 - INFO - Khuy\u1ebfn ngh\u1ecb cho FLOKI/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.51, Khung: 4h
+2025-08-02 11:07:12,896 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TAO/USDT (4h)
+2025-08-02 11:07:12,911 - ERROR - L\u1ed7i tính toán ch\u1ec9 s\u1ed1 giao d\u1ecbch: Giá hi\u1ec7n t\u1ea1i, s\u1ed1 ti\u1ec1n \u0111\u1ea7u t\u01b0 ho\u1eb7c \u0111òn b\u1ea9y không h\u1ee3p l\u1ec7
+2025-08-02 11:07:12,918 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho S/USDT (4h)
+2025-08-02 11:07:12,921 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho WLD/USDT (12h)
+2025-08-02 11:07:12,922 - INFO - Phân tích c\u1ea3m xúc cho FLOKI/USDT: Tích c\u1ef1c (Bullish) (Score: 0.94)
+2025-08-02 11:07:12,949 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:13,016 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:13,050 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:13,053 - INFO - H\u1ed7 tr\u1ee3: 0.8666, Kháng c\u1ef1: 1.0048
+2025-08-02 11:07:13,079 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:13,082 - INFO - Khuy\u1ebfn ngh\u1ecb cho ONDO/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.43000000000000005, Khung: 4h
+2025-08-02 11:07:13,085 - INFO - H\u1ed7 tr\u1ee3: 0.931, Kháng c\u1ef1: 1.094
+2025-08-02 11:07:13,087 - INFO - Khuy\u1ebfn ngh\u1ecb cho WLD/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.62, Khung: 4h
+2025-08-02 11:07:13,092 - INFO - Phân tích c\u1ea3m xúc cho ONDO/USDT: Tích c\u1ef1c (Bullish) (Score: 0.97)
+2025-08-02 11:07:13,094 - INFO - Phân tích c\u1ea3m xúc cho WLD/USDT: Trung l\u1eadp (Neutral) (Score: 0.49)
+2025-08-02 11:07:13,263 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TAO/USDT (2h)
+2025-08-02 11:07:13,307 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:13,320 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho S/USDT (2h)
+2025-08-02 11:07:13,374 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:13,384 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SYRUP/USDT (4h)
+2025-08-02 11:07:13,388 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SHIB/USDT (4h)
+2025-08-02 11:07:13,429 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BCH/USDT (4h)
+2025-08-02 11:07:13,526 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:13,546 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:13,579 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:13,596 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TAO/USDT (12h)
+2025-08-02 11:07:13,638 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:13,641 - INFO - H\u1ed7 tr\u1ee3: 334.1, Kháng c\u1ef1: 384.9
+2025-08-02 11:07:13,642 - INFO - Khuy\u1ebfn ngh\u1ecb cho TAO/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.55, Khung: 4h
+2025-08-02 11:07:13,647 - INFO - Phân tích c\u1ea3m xúc cho TAO/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.20)
+2025-08-02 11:07:13,751 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho S/USDT (12h)
+2025-08-02 11:07:13,797 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BCH/USDT (2h)
+2025-08-02 11:07:13,817 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SYRUP/USDT (2h)
+2025-08-02 11:07:13,817 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:13,862 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SHIB/USDT (2h)
+2025-08-02 11:07:13,940 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:13,942 - INFO - H\u1ed7 tr\u1ee3: 0.29, Kháng c\u1ef1: 0.3565
+2025-08-02 11:07:13,946 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho VIRTUAL/USDT (4h)
+2025-08-02 11:07:13,954 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:13,975 - INFO - Khuy\u1ebfn ngh\u1ecb cho S/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.765, Khung: 4h
+2025-08-02 11:07:13,988 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:14,059 - INFO - Phân tích c\u1ea3m xúc cho S/USDT: Tích c\u1ef1c (Bullish) (Score: 0.97)
+2025-08-02 11:07:14,063 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:14,192 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SYRUP/USDT (12h)
+2025-08-02 11:07:14,233 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BCH/USDT (12h)
+2025-08-02 11:07:14,292 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SHIB/USDT (12h)
+2025-08-02 11:07:14,325 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho VIRTUAL/USDT (2h)
+2025-08-02 11:07:14,383 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:14,389 - INFO - H\u1ed7 tr\u1ee3: 0.3975, Kháng c\u1ef1: 0.4809
+2025-08-02 11:07:14,389 - INFO - Khuy\u1ebfn ngh\u1ecb cho SYRUP/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.295, Khung: 4h
+2025-08-02 11:07:14,391 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:14,415 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ETHFI/USDT (4h)
+2025-08-02 11:07:14,460 - INFO - H\u1ed7 tr\u1ee3: 527.8, Kháng c\u1ef1: 597.1
+2025-08-02 11:07:14,476 - INFO - Phân tích c\u1ea3m xúc cho SYRUP/USDT: Trung l\u1eadp (Neutral) (Score: 0.61)
+2025-08-02 11:07:14,514 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:14,530 - INFO - Khuy\u1ebfn ngh\u1ecb cho BCH/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.62, Khung: 4h
+2025-08-02 11:07:14,531 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:14,532 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:14,536 - INFO - H\u1ed7 tr\u1ee3: 1.173e-05, Kháng c\u1ef1: 1.319e-05
+2025-08-02 11:07:14,540 - INFO - Khuy\u1ebfn ngh\u1ecb cho SHIB/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.6099999999999999, Khung: 4h
+2025-08-02 11:07:14,542 - INFO - Phân tích c\u1ea3m xúc cho BCH/USDT: Tích c\u1ef1c (Bullish) (Score: 0.88)
+2025-08-02 11:07:14,545 - ERROR - L\u1ed7i tính toán ch\u1ec9 s\u1ed1 giao d\u1ecbch: Giá hi\u1ec7n t\u1ea1i, s\u1ed1 ti\u1ec1n \u0111\u1ea7u t\u01b0 ho\u1eb7c \u0111òn b\u1ea9y không h\u1ee3p l\u1ec7
+2025-08-02 11:07:14,545 - INFO - Phân tích c\u1ea3m xúc cho SHIB/USDT: Trung l\u1eadp (Neutral) (Score: 0.48)
+2025-08-02 11:07:14,747 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho MAGIC/USDT (4h)
+2025-08-02 11:07:14,781 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho OP/USDT (4h)
+2025-08-02 11:07:14,841 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ETHFI/USDT (2h)
+2025-08-02 11:07:14,842 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:14,843 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:14,873 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:14,880 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SPK/USDT (4h)
+2025-08-02 11:07:14,888 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho VIRTUAL/USDT (12h)
+2025-08-02 11:07:14,973 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:14,973 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:14,979 - INFO - H\u1ed7 tr\u1ee3: 1.1652, Kháng c\u1ef1: 1.3899
+2025-08-02 11:07:14,980 - INFO - Khuy\u1ebfn ngh\u1ecb cho VIRTUAL/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.7299999999999999, Khung: 4h
+2025-08-02 11:07:14,982 - INFO - Phân tích c\u1ea3m xúc cho VIRTUAL/USDT: Tích c\u1ef1c (Bullish) (Score: 0.93)
+2025-08-02 11:07:15,131 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho MAGIC/USDT (2h)
+2025-08-02 11:07:15,182 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:15,325 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho OP/USDT (2h)
+2025-08-02 11:07:15,347 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ETHFI/USDT (12h)
+2025-08-02 11:07:15,373 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:15,379 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SPK/USDT (2h)
+2025-08-02 11:07:15,398 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho FIL/USDT (4h)
+2025-08-02 11:07:15,403 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho MAGIC/USDT (12h)
+2025-08-02 11:07:15,424 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:15,540 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:15,543 - INFO - H\u1ed7 tr\u1ee3: 0.922, Kháng c\u1ef1: 1.227
+2025-08-02 11:07:15,545 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:15,584 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:15,585 - INFO - Khuy\u1ebfn ngh\u1ecb cho ETHFI/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.6950000000000001, Khung: 4h
+2025-08-02 11:07:15,593 - INFO - H\u1ed7 tr\u1ee3: 0.138, Kháng c\u1ef1: 0.1945
+2025-08-02 11:07:15,596 - INFO - Khuy\u1ebfn ngh\u1ecb cho MAGIC/USDT: MUA_M\u1ea0NH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.9400000000000001, Khung: 4h
+2025-08-02 11:07:15,601 - INFO - Phân tích c\u1ea3m xúc cho ETHFI/USDT: Trung l\u1eadp (Neutral) (Score: 0.45)
+2025-08-02 11:07:15,604 - INFO - Phân tích c\u1ea3m xúc cho MAGIC/USDT: Trung l\u1eadp (Neutral) (Score: 0.64)
+2025-08-02 11:07:15,678 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho OP/USDT (12h)
+2025-08-02 11:07:15,735 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:15,739 - INFO - H\u1ed7 tr\u1ee3: 0.622, Kháng c\u1ef1: 0.735
+2025-08-02 11:07:15,739 - INFO - Khuy\u1ebfn ngh\u1ecb cho OP/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.5199999999999999, Khung: 4h
+2025-08-02 11:07:15,743 - INFO - Phân tích c\u1ea3m xúc cho OP/USDT: Tích c\u1ef1c (Bullish) (Score: 0.75)
+2025-08-02 11:07:15,858 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ENS/USDT (4h)
+2025-08-02 11:07:15,895 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho FET/USDT (4h)
+2025-08-02 11:07:15,903 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:15,926 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:15,954 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho EUR/USDT (4h)
+2025-08-02 11:07:16,004 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:16,036 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho FIL/USDT (2h)
+2025-08-02 11:07:16,080 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:16,084 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SPK/USDT (12h)
+2025-08-02 11:07:16,121 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:16,127 - INFO - H\u1ed7 tr\u1ee3: 0.083235, Kháng c\u1ef1: 0.12
+2025-08-02 11:07:16,128 - INFO - Khuy\u1ebfn ngh\u1ecb cho SPK/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.335, Khung: 4h
+2025-08-02 11:07:16,137 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho FET/USDT (2h)
+2025-08-02 11:07:16,197 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:16,202 - INFO - Phân tích c\u1ea3m xúc cho SPK/USDT: Trung l\u1eadp (Neutral) (Score: 0.36)
+2025-08-02 11:07:16,284 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ENS/USDT (2h)
+2025-08-02 11:07:16,336 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:16,464 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho FIL/USDT (12h)
+2025-08-02 11:07:16,516 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:16,521 - INFO - H\u1ed7 tr\u1ee3: 2.218, Kháng c\u1ef1: 2.587
+2025-08-02 11:07:16,526 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho EUR/USDT (2h)
+2025-08-02 11:07:16,526 - INFO - Khuy\u1ebfn ngh\u1ecb cho FIL/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.52, Khung: 4h
+2025-08-02 11:07:16,577 - INFO - Phân tích c\u1ea3m xúc cho FIL/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.28)
+2025-08-02 11:07:16,582 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ENS/USDT (12h)
+2025-08-02 11:07:16,600 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho FET/USDT (12h)
+2025-08-02 11:07:16,606 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:16,699 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho MEME/USDT (4h)
+2025-08-02 11:07:16,763 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:16,766 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:16,791 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:16,791 - INFO - H\u1ed7 tr\u1ee3: 0.621, Kháng c\u1ef1: 0.717
+2025-08-02 11:07:16,802 - INFO - H\u1ed7 tr\u1ee3: 24.71, Kháng c\u1ef1: 28.96
+2025-08-02 11:07:16,803 - INFO - Khuy\u1ebfn ngh\u1ecb cho FET/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.69, Khung: 4h
+2025-08-02 11:07:16,803 - INFO - Khuy\u1ebfn ngh\u1ecb cho ENS/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.385, Khung: 4h
+2025-08-02 11:07:16,809 - INFO - Phân tích c\u1ea3m xúc cho FET/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.28)
+2025-08-02 11:07:16,812 - INFO - Phân tích c\u1ea3m xúc cho ENS/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.05)
+2025-08-02 11:07:16,976 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho USD1/USDT (4h)
+2025-08-02 11:07:17,000 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho MEME/USDT (2h)
+2025-08-02 11:07:17,101 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:17,113 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:17,122 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TIA/USDT (4h)
+2025-08-02 11:07:17,147 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho CAKE/USDT (4h)
+2025-08-02 11:07:17,182 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho EUR/USDT (12h)
+2025-08-02 11:07:17,204 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:17,313 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:17,321 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:17,327 - INFO - H\u1ed7 tr\u1ee3: 1.1392, Kháng c\u1ef1: 1.1593
+2025-08-02 11:07:17,327 - INFO - Khuy\u1ebfn ngh\u1ecb cho EUR/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.59, Khung: 4h
+2025-08-02 11:07:17,331 - INFO - Phân tích c\u1ea3m xúc cho EUR/USDT: Tích c\u1ef1c (Bullish) (Score: 0.85)
+2025-08-02 11:07:17,412 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho MEME/USDT (12h)
+2025-08-02 11:07:17,448 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:17,456 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TIA/USDT (2h)
+2025-08-02 11:07:17,462 - INFO - H\u1ed7 tr\u1ee3: 0.001638, Kháng c\u1ef1: 0.002396
+2025-08-02 11:07:17,476 - INFO - Khuy\u1ebfn ngh\u1ecb cho MEME/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.52, Khung: 4h
+2025-08-02 11:07:17,510 - ERROR - L\u1ed7i tính toán ch\u1ec9 s\u1ed1 giao d\u1ecbch: Giá hi\u1ec7n t\u1ea1i, s\u1ed1 ti\u1ec1n \u0111\u1ea7u t\u01b0 ho\u1eb7c \u0111òn b\u1ea9y không h\u1ee3p l\u1ec7
+2025-08-02 11:07:17,511 - INFO - Phân tích c\u1ea3m xúc cho MEME/USDT: Trung l\u1eadp (Neutral) (Score: 0.45)
+2025-08-02 11:07:17,534 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:17,551 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho USD1/USDT (2h)
+2025-08-02 11:07:17,555 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho CAKE/USDT (2h)
+2025-08-02 11:07:17,629 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:17,635 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:17,638 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PNUT/USDT (4h)
+2025-08-02 11:07:17,688 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:17,816 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PAXG/USDT (4h)
+2025-08-02 11:07:17,852 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho USD1/USDT (12h)
+2025-08-02 11:07:17,881 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:17,933 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:17,937 - INFO - H\u1ed7 tr\u1ee3: 0.9985, Kháng c\u1ef1: 0.9998
+2025-08-02 11:07:17,937 - INFO - Khuy\u1ebfn ngh\u1ecb cho USD1/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.275, Khung: 4h
+2025-08-02 11:07:17,940 - INFO - Phân tích c\u1ea3m xúc cho USD1/USDT: Trung l\u1eadp (Neutral) (Score: 0.40)
+2025-08-02 11:07:17,941 - WARNING - C\u1eb7p USD1/USDT có support/resistance quá g\u1ea7n nhau
+2025-08-02 11:07:17,975 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PNUT/USDT (2h)
+2025-08-02 11:07:18,003 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho TIA/USDT (12h)
+2025-08-02 11:07:18,053 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:18,099 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho CAKE/USDT (12h)
+2025-08-02 11:07:18,102 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:18,116 - INFO - H\u1ed7 tr\u1ee3: 1.561, Kháng c\u1ef1: 1.885
+2025-08-02 11:07:18,116 - INFO - Khuy\u1ebfn ngh\u1ecb cho TIA/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.45, Khung: 4h
+2025-08-02 11:07:18,129 - INFO - Phân tích c\u1ea3m xúc cho TIA/USDT: Trung l\u1eadp (Neutral) (Score: 0.60)
+2025-08-02 11:07:18,157 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:18,162 - INFO - H\u1ed7 tr\u1ee3: 2.528, Kháng c\u1ef1: 2.909
+2025-08-02 11:07:18,162 - INFO - Khuy\u1ebfn ngh\u1ecb cho CAKE/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.495, Khung: 4h
+2025-08-02 11:07:18,167 - INFO - Phân tích c\u1ea3m xúc cho CAKE/USDT: Trung l\u1eadp (Neutral) (Score: 0.64)
+2025-08-02 11:07:18,292 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho NEIRO/USDT (4h)
+2025-08-02 11:07:18,351 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:18,369 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho LDO/USDT (4h)
+2025-08-02 11:07:18,416 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:18,418 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PAXG/USDT (12h)
+2025-08-02 11:07:18,446 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:18,450 - INFO - H\u1ed7 tr\u1ee3: 3283.0, Kháng c\u1ef1: 3369.98
+2025-08-02 11:07:18,450 - INFO - Khuy\u1ebfn ngh\u1ecb cho PAXG/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.5449999999999999, Khung: 4h
+2025-08-02 11:07:18,452 - INFO - Phân tích c\u1ea3m xúc cho PAXG/USDT: Tích c\u1ef1c (Bullish) (Score: 0.97)
+2025-08-02 11:07:18,555 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PNUT/USDT (12h)
+2025-08-02 11:07:18,605 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:18,611 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho IDEX/USDT (4h)
+2025-08-02 11:07:18,619 - INFO - H\u1ed7 tr\u1ee3: 0.2151, Kháng c\u1ef1: 0.2615
+2025-08-02 11:07:18,623 - INFO - Khuy\u1ebfn ngh\u1ecb cho PNUT/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.69, Khung: 4h
+2025-08-02 11:07:18,646 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho LDO/USDT (12h)
+2025-08-02 11:07:18,650 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho NEIRO/USDT (12h)
+2025-08-02 11:07:18,691 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:18,693 - INFO - Phân tích c\u1ea3m xúc cho PNUT/USDT: Tích c\u1ef1c (Bullish) (Score: 0.91)
+2025-08-02 11:07:18,760 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:18,777 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:18,791 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho RUNE/USDT (4h)
+2025-08-02 11:07:18,792 - INFO - H\u1ed7 tr\u1ee3: 0.869, Kháng c\u1ef1: 1.052
+2025-08-02 11:07:18,796 - INFO - H\u1ed7 tr\u1ee3: 0.00036607, Kháng c\u1ef1: 0.00043959
+2025-08-02 11:07:18,797 - INFO - Khuy\u1ebfn ngh\u1ecb cho LDO/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.7399999999999999, Khung: 4h
+2025-08-02 11:07:18,829 - INFO - Khuy\u1ebfn ngh\u1ecb cho NEIRO/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.6499999999999999, Khung: 4h
+2025-08-02 11:07:18,840 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:18,853 - INFO - Phân tích c\u1ea3m xúc cho LDO/USDT: Trung l\u1eadp (Neutral) (Score: 0.48)
+2025-08-02 11:07:18,854 - ERROR - L\u1ed7i tính toán ch\u1ec9 s\u1ed1 giao d\u1ecbch: Giá hi\u1ec7n t\u1ea1i, s\u1ed1 ti\u1ec1n \u0111\u1ea7u t\u01b0 ho\u1eb7c \u0111òn b\u1ea9y không h\u1ee3p l\u1ec7
+2025-08-02 11:07:18,854 - INFO - Phân tích c\u1ea3m xúc cho NEIRO/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.13)
+2025-08-02 11:07:19,042 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho RUNE/USDT (12h)
+2025-08-02 11:07:19,095 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:19,103 - INFO - H\u1ed7 tr\u1ee3: 1.249, Kháng c\u1ef1: 1.417
+2025-08-02 11:07:19,108 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho EIGEN/USDT (4h)
+2025-08-02 11:07:19,109 - INFO - Khuy\u1ebfn ngh\u1ecb cho RUNE/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.625, Khung: 4h
+2025-08-02 11:07:19,169 - INFO - Phân tích c\u1ea3m xúc cho RUNE/USDT: Trung l\u1eadp (Neutral) (Score: 0.62)
+2025-08-02 11:07:19,170 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:19,204 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SAHARA/USDT (4h)
+2025-08-02 11:07:19,243 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:19,245 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ERA/USDT (4h)
+2025-08-02 11:07:19,271 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:19,343 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho IDEX/USDT (12h)
+2025-08-02 11:07:19,393 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:19,400 - INFO - H\u1ed7 tr\u1ee3: 0.02455, Kháng c\u1ef1: 0.03995
+2025-08-02 11:07:19,400 - INFO - Khuy\u1ebfn ngh\u1ecb cho IDEX/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.74, Khung: 4h
+2025-08-02 11:07:19,404 - INFO - Phân tích c\u1ea3m xúc cho IDEX/USDT: Trung l\u1eadp (Neutral) (Score: 0.60)
+2025-08-02 11:07:19,423 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho RENDER/USDT (4h)
+2025-08-02 11:07:19,450 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:19,545 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho EIGEN/USDT (12h)
+2025-08-02 11:07:19,573 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:19,575 - INFO - H\u1ed7 tr\u1ee3: 1.064, Kháng c\u1ef1: 1.324
+2025-08-02 11:07:19,575 - INFO - Khuy\u1ebfn ngh\u1ecb cho EIGEN/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.6499999999999999, Khung: 4h
+2025-08-02 11:07:19,577 - INFO - Phân tích c\u1ea3m xúc cho EIGEN/USDT: Trung l\u1eadp (Neutral) (Score: 0.66)
+2025-08-02 11:07:19,615 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PENDLE/USDT (4h)
+2025-08-02 11:07:19,643 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:19,650 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ERA/USDT (12h)
+2025-08-02 11:07:19,665 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho SAHARA/USDT (12h)
+2025-08-02 11:07:19,699 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:19,707 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:19,710 - INFO - H\u1ed7 tr\u1ee3: 0.9696, Kháng c\u1ef1: 1.226
+2025-08-02 11:07:19,712 - INFO - H\u1ed7 tr\u1ee3: 0.0753, Kháng c\u1ef1: 0.08656
+2025-08-02 11:07:19,714 - INFO - Khuy\u1ebfn ngh\u1ecb cho ERA/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.48499999999999993, Khung: 4h
+2025-08-02 11:07:19,715 - INFO - Khuy\u1ebfn ngh\u1ecb cho SAHARA/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.235, Khung: 4h
+2025-08-02 11:07:19,719 - INFO - Phân tích c\u1ea3m xúc cho ERA/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.27)
+2025-08-02 11:07:19,721 - INFO - Phân tích c\u1ea3m xúc cho SAHARA/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.11)
+2025-08-02 11:07:19,840 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho GALA/USDT (4h)
+2025-08-02 11:07:19,865 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho RENDER/USDT (12h)
+2025-08-02 11:07:19,892 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:19,930 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:19,935 - INFO - H\u1ed7 tr\u1ee3: 3.418, Kháng c\u1ef1: 4.051
+2025-08-02 11:07:19,935 - INFO - Khuy\u1ebfn ngh\u1ecb cho RENDER/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.72, Khung: 4h
+2025-08-02 11:07:19,938 - INFO - Phân tích c\u1ea3m xúc cho RENDER/USDT: Trung l\u1eadp (Neutral) (Score: 0.57)
+2025-08-02 11:07:20,068 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BABY/USDT (4h)
+2025-08-02 11:07:20,068 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PENDLE/USDT (12h)
+2025-08-02 11:07:20,136 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:20,140 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:20,151 - INFO - H\u1ed7 tr\u1ee3: 3.772, Kháng c\u1ef1: 4.571
+2025-08-02 11:07:20,152 - INFO - Khuy\u1ebfn ngh\u1ecb cho PENDLE/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.36, Khung: 4h
+2025-08-02 11:07:20,154 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho GALA/USDT (12h)
+2025-08-02 11:07:20,173 - INFO - Phân tích c\u1ea3m xúc cho PENDLE/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.14)
+2025-08-02 11:07:20,193 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:20,199 - INFO - H\u1ed7 tr\u1ee3: 0.01449, Kháng c\u1ef1: 0.0169
+2025-08-02 11:07:20,200 - INFO - Khuy\u1ebfn ngh\u1ecb cho GALA/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.5800000000000001, Khung: 4h
+2025-08-02 11:07:20,203 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho POL/USDT (4h)
+2025-08-02 11:07:20,241 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:20,241 - WARNING - Stop loss không h\u1ee3p l\u1ec7, \u0111i\u1ec1u ch\u1ec9nh thành 0.0202
+2025-08-02 11:07:20,247 - INFO - Phân tích c\u1ea3m xúc cho GALA/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.27)
+2025-08-02 11:07:20,396 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BABY/USDT (12h)
+2025-08-02 11:07:20,438 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ASR/USDT (4h)
+2025-08-02 11:07:20,463 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:20,480 - INFO - H\u1ed7 tr\u1ee3: 0.05283, Kháng c\u1ef1: 0.06588
+2025-08-02 11:07:20,503 - INFO - Khuy\u1ebfn ngh\u1ecb cho BABY/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.7849999999999999, Khung: 4h
+2025-08-02 11:07:20,525 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:20,533 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho OMNI/USDT (4h)
+2025-08-02 11:07:20,535 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ALGO/USDT (4h)
+2025-08-02 11:07:20,542 - INFO - Phân tích c\u1ea3m xúc cho BABY/USDT: Tích c\u1ef1c (Bullish) (Score: 0.79)
+2025-08-02 11:07:20,546 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho POL/USDT (12h)
+2025-08-02 11:07:20,636 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:20,637 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:20,686 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:20,699 - INFO - H\u1ed7 tr\u1ee3: 0.1928, Kháng c\u1ef1: 0.2235
+2025-08-02 11:07:20,705 - INFO - Khuy\u1ebfn ngh\u1ecb cho POL/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.625, Khung: 4h
+2025-08-02 11:07:20,710 - INFO - Phân tích c\u1ea3m xúc cho POL/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.14)
+2025-08-02 11:07:20,874 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ALGO/USDT (12h)
+2025-08-02 11:07:20,919 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:20,921 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho INJ/USDT (4h)
+2025-08-02 11:07:20,929 - INFO - H\u1ed7 tr\u1ee3: 0.2299, Kháng c\u1ef1: 0.2675
+2025-08-02 11:07:20,932 - INFO - Khuy\u1ebfn ngh\u1ecb cho ALGO/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.42999999999999994, Khung: 4h
+2025-08-02 11:07:20,943 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:20,952 - INFO - Phân tích c\u1ea3m xúc cho ALGO/USDT: Tích c\u1ef1c (Bullish) (Score: 0.86)
+2025-08-02 11:07:20,967 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ASR/USDT (12h)
+2025-08-02 11:07:21,028 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:21,033 - INFO - H\u1ed7 tr\u1ee3: 4.686, Kháng c\u1ef1: 6.364
+2025-08-02 11:07:21,034 - INFO - Khuy\u1ebfn ngh\u1ecb cho ASR/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.175, Khung: 4h
+2025-08-02 11:07:21,037 - INFO - Phân tích c\u1ea3m xúc cho ASR/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.02)
+2025-08-02 11:07:21,089 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho OM/USDT (4h)
+2025-08-02 11:07:21,134 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:21,136 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho OMNI/USDT (12h)
+2025-08-02 11:07:21,193 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:21,198 - INFO - H\u1ed7 tr\u1ee3: 4.25, Kháng c\u1ef1: 5.73
+2025-08-02 11:07:21,199 - INFO - Khuy\u1ebfn ngh\u1ecb cho OMNI/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.26, Khung: 4h
+2025-08-02 11:07:21,204 - INFO - Phân tích c\u1ea3m xúc cho OMNI/USDT: Trung l\u1eadp (Neutral) (Score: 0.44)
+2025-08-02 11:07:21,242 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ORDI/USDT (4h)
+2025-08-02 11:07:21,296 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:21,309 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho COMP/USDT (4h)
+2025-08-02 11:07:21,319 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho INJ/USDT (12h)
+2025-08-02 11:07:21,359 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:21,392 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:21,396 - INFO - H\u1ed7 tr\u1ee3: 12.22, Kháng c\u1ef1: 14.64
+2025-08-02 11:07:21,396 - INFO - Khuy\u1ebfn ngh\u1ecb cho INJ/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.7, Khung: 4h
+2025-08-02 11:07:21,400 - INFO - Phân tích c\u1ea3m xúc cho INJ/USDT: Trung l\u1eadp (Neutral) (Score: 0.55)
+2025-08-02 11:07:21,478 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ARKM/USDT (4h)
+2025-08-02 11:07:21,536 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:21,566 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho OM/USDT (12h)
+2025-08-02 11:07:21,603 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:21,606 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ORDI/USDT (12h)
+2025-08-02 11:07:21,609 - INFO - H\u1ed7 tr\u1ee3: 0.2251, Kháng c\u1ef1: 0.2635
+2025-08-02 11:07:21,609 - INFO - Khuy\u1ebfn ngh\u1ecb cho OM/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.47, Khung: 4h
+2025-08-02 11:07:21,622 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho COMP/USDT (12h)
+2025-08-02 11:07:21,659 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:21,662 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho VET/USDT (4h)
+2025-08-02 11:07:21,662 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:21,663 - INFO - Phân tích c\u1ea3m xúc cho OM/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.28)
+2025-08-02 11:07:21,668 - INFO - H\u1ed7 tr\u1ee3: 8.4, Kháng c\u1ef1: 10.244
+2025-08-02 11:07:21,681 - INFO - H\u1ed7 tr\u1ee3: 42.92, Kháng c\u1ef1: 48.5
+2025-08-02 11:07:21,699 - INFO - Khuy\u1ebfn ngh\u1ecb cho ORDI/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.62, Khung: 4h
+2025-08-02 11:07:21,729 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:21,729 - INFO - Khuy\u1ebfn ngh\u1ecb cho COMP/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.41000000000000003, Khung: 4h
+2025-08-02 11:07:21,753 - INFO - Phân tích c\u1ea3m xúc cho ORDI/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.29)
+2025-08-02 11:07:21,756 - INFO - Phân tích c\u1ea3m xúc cho COMP/USDT: Tích c\u1ef1c (Bullish) (Score: 0.97)
+2025-08-02 11:07:21,792 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ARKM/USDT (12h)
+2025-08-02 11:07:21,847 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:21,856 - INFO - H\u1ed7 tr\u1ee3: 0.442, Kháng c\u1ef1: 0.531
+2025-08-02 11:07:21,857 - INFO - Khuy\u1ebfn ngh\u1ecb cho ARKM/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.59, Khung: 4h
+2025-08-02 11:07:21,860 - INFO - Phân tích c\u1ea3m xúc cho ARKM/USDT: Trung l\u1eadp (Neutral) (Score: 0.44)
+2025-08-02 11:07:21,956 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ETC/USDT (4h)
+2025-08-02 11:07:22,005 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho VET/USDT (12h)
+2025-08-02 11:07:22,021 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:22,053 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ICP/USDT (4h)
+2025-08-02 11:07:22,070 - WARNING - D\u1eef li\u1ec7u không \u0111\u1ee7 ho\u1eb7c không bi\u1ebfn \u0111\u1ed9ng cho A2Z/USDT
+2025-08-02 11:07:22,076 - WARNING - Không th\u1ec3 l\u1ea5y d\u1eef li\u1ec7u cho A2Z/USDT (4h)
+2025-08-02 11:07:22,102 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:22,134 - INFO - H\u1ed7 tr\u1ee3: 0.02213, Kháng c\u1ef1: 0.02544
+2025-08-02 11:07:22,147 - INFO - Khuy\u1ebfn ngh\u1ecb cho VET/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.5800000000000001, Khung: 4h
+2025-08-02 11:07:22,159 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:22,169 - WARNING - Take profit không h\u1ee3p l\u1ec7, \u0111i\u1ec1u ch\u1ec9nh thành 0.0196
+2025-08-02 11:07:22,171 - INFO - Phân tích c\u1ea3m xúc cho VET/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.01)
+2025-08-02 11:07:22,187 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho RAY/USDT (4h)
+2025-08-02 11:07:22,236 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:22,354 - WARNING - D\u1eef li\u1ec7u không \u0111\u1ee7 ho\u1eb7c không bi\u1ebfn \u0111\u1ed9ng cho A2Z/USDT
+2025-08-02 11:07:22,355 - WARNING - Không th\u1ec3 l\u1ea5y d\u1eef li\u1ec7u cho A2Z/USDT (12h)
+2025-08-02 11:07:22,356 - INFO - H\u1ed7 tr\u1ee3: 0.004553, Kháng c\u1ef1: 0.005642
+2025-08-02 11:07:22,357 - INFO - Khuy\u1ebfn ngh\u1ecb cho A2Z/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.13999999999999999, Khung: 4h
+2025-08-02 11:07:22,360 - INFO - Phân tích c\u1ea3m xúc cho A2Z/USDT: Tích c\u1ef1c (Bullish) (Score: 0.83)
+2025-08-02 11:07:22,368 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ICP/USDT (12h)
+2025-08-02 11:07:22,428 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:22,434 - INFO - H\u1ed7 tr\u1ee3: 4.903, Kháng c\u1ef1: 5.584
+2025-08-02 11:07:22,436 - INFO - Khuy\u1ebfn ngh\u1ecb cho ICP/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.6199999999999999, Khung: 4h
+2025-08-02 11:07:22,442 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho IOTX/USDT (4h)
+2025-08-02 11:07:22,455 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho RAY/USDT (12h)
+2025-08-02 11:07:22,459 - INFO - Phân tích c\u1ea3m xúc cho ICP/USDT: Trung l\u1eadp (Neutral) (Score: 0.40)
+2025-08-02 11:07:22,553 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ETC/USDT (12h)
+2025-08-02 11:07:22,556 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:22,577 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:22,635 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:22,641 - INFO - H\u1ed7 tr\u1ee3: 2.535, Kháng c\u1ef1: 3.074
+2025-08-02 11:07:22,644 - INFO - Khuy\u1ebfn ngh\u1ecb cho RAY/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.58, Khung: 4h
+2025-08-02 11:07:22,647 - INFO - H\u1ed7 tr\u1ee3: 19.31, Kháng c\u1ef1: 21.95
+2025-08-02 11:07:22,648 - INFO - Khuy\u1ebfn ngh\u1ecb cho ETC/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.61, Khung: 4h
+2025-08-02 11:07:22,652 - INFO - Phân tích c\u1ea3m xúc cho RAY/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.16)
+2025-08-02 11:07:22,655 - INFO - Phân tích c\u1ea3m xúc cho ETC/USDT: Tích c\u1ef1c (Bullish) (Score: 1.00)
+2025-08-02 11:07:22,746 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ATOM/USDT (4h)
+2025-08-02 11:07:22,804 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:22,813 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho JUP/USDT (4h)
+2025-08-02 11:07:22,839 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:22,855 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BANANAS31/USDT (4h)
+2025-08-02 11:07:22,892 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:22,901 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho WBTC/USDT (4h)
+2025-08-02 11:07:22,938 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:23,010 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho IOTX/USDT (12h)
+2025-08-02 11:07:23,063 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:23,076 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ATOM/USDT (12h)
+2025-08-02 11:07:23,080 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho JUP/USDT (12h)
+2025-08-02 11:07:23,086 - INFO - H\u1ed7 tr\u1ee3: 0.02236, Kháng c\u1ef1: 0.03038
+2025-08-02 11:07:23,105 - INFO - Khuy\u1ebfn ngh\u1ecb cho IOTX/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.365, Khung: 4h
+2025-08-02 11:07:23,192 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:23,193 - WARNING - Take profit không h\u1ee3p l\u1ec7, \u0111i\u1ec1u ch\u1ec9nh thành 0.0306
+2025-08-02 11:07:23,204 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:23,214 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho WBTC/USDT (12h)
+2025-08-02 11:07:23,215 - INFO - Phân tích c\u1ea3m xúc cho IOTX/USDT: Tích c\u1ef1c (Bullish) (Score: 0.76)
+2025-08-02 11:07:23,217 - INFO - H\u1ed7 tr\u1ee3: 4.038, Kháng c\u1ef1: 4.632
+2025-08-02 11:07:23,221 - INFO - H\u1ed7 tr\u1ee3: 0.4408, Kháng c\u1ef1: 0.5406
+2025-08-02 11:07:23,226 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BANANAS31/USDT (12h)
+2025-08-02 11:07:23,282 - INFO - Khuy\u1ebfn ngh\u1ecb cho ATOM/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.5049999999999999, Khung: 4h
+2025-08-02 11:07:23,287 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:23,288 - INFO - Khuy\u1ebfn ngh\u1ecb cho JUP/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.69, Khung: 4h
+2025-08-02 11:07:23,323 - INFO - H\u1ed7 tr\u1ee3: 112690.93, Kháng c\u1ef1: 118828.98
+2025-08-02 11:07:23,361 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:23,361 - INFO - Khuy\u1ebfn ngh\u1ecb cho WBTC/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.58, Khung: 4h
+2025-08-02 11:07:23,373 - INFO - H\u1ed7 tr\u1ee3: 0.006927, Kháng c\u1ef1: 0.0081
+2025-08-02 11:07:23,374 - INFO - Khuy\u1ebfn ngh\u1ecb cho BANANAS31/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.625, Khung: 4h
+2025-08-02 11:07:23,378 - INFO - Phân tích c\u1ea3m xúc cho ATOM/USDT: Tích c\u1ef1c (Bullish) (Score: 0.75)
+2025-08-02 11:07:23,384 - WARNING - Stop loss không h\u1ee3p l\u1ec7, \u0111i\u1ec1u ch\u1ec9nh thành 0.0099
+2025-08-02 11:07:23,384 - WARNING - Take profit không h\u1ee3p l\u1ec7, \u0111i\u1ec1u ch\u1ec9nh thành 0.0102
+2025-08-02 11:07:23,385 - INFO - Phân tích c\u1ea3m xúc cho BANANAS31/USDT: Tích c\u1ef1c (Bullish) (Score: 0.88)
+2025-08-02 11:07:23,385 - WARNING - C\u1eb7p BANANAS31/USDT có support/resistance quá g\u1ea7n nhau
+2025-08-02 11:07:23,388 - INFO - Phân tích c\u1ea3m xúc cho WBTC/USDT: Trung l\u1eadp (Neutral) (Score: 0.35)
+2025-08-02 11:07:23,390 - INFO - Phân tích c\u1ea3m xúc cho JUP/USDT: Trung l\u1eadp (Neutral) (Score: 0.58)
+2025-08-02 11:07:23,573 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho INIT/USDT (4h)
+2025-08-02 11:07:23,597 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho HYPER/USDT (4h)
+2025-08-02 11:07:23,618 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:23,662 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho C/USDT (4h)
+2025-08-02 11:07:23,679 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho KERNEL/USDT (4h)
+2025-08-02 11:07:23,687 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho RESOLV/USDT (4h)
+2025-08-02 11:07:23,795 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:23,799 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:23,823 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:23,834 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:23,946 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho INIT/USDT (12h)
+2025-08-02 11:07:23,990 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:23,994 - INFO - H\u1ed7 tr\u1ee3: 0.36, Kháng c\u1ef1: 0.454
+2025-08-02 11:07:23,995 - INFO - Khuy\u1ebfn ngh\u1ecb cho INIT/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.575, Khung: 4h
+2025-08-02 11:07:23,997 - INFO - Phân tích c\u1ea3m xúc cho INIT/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.01)
+2025-08-02 11:07:24,402 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho C/USDT (12h)
+2025-08-02 11:07:24,467 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:24,472 - INFO - H\u1ed7 tr\u1ee3: 0.2681, Kháng c\u1ef1: 0.3423
+2025-08-02 11:07:24,473 - INFO - Khuy\u1ebfn ngh\u1ecb cho C/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.38499999999999995, Khung: 4h
+2025-08-02 11:07:24,477 - INFO - Phân tích c\u1ea3m xúc cho C/USDT: Trung l\u1eadp (Neutral) (Score: 0.54)
+2025-08-02 11:07:25,598 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho KERNEL/USDT (12h)
+2025-08-02 11:07:25,663 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:25,669 - INFO - H\u1ed7 tr\u1ee3: 0.1836, Kháng c\u1ef1: 0.24
+2025-08-02 11:07:25,669 - INFO - Khuy\u1ebfn ngh\u1ecb cho KERNEL/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.15499999999999997, Khung: 4h
+2025-08-02 11:07:25,673 - INFO - Phân tích c\u1ea3m xúc cho KERNEL/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.19)
+2025-08-02 11:07:25,728 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho HYPER/USDT (12h)
+2025-08-02 11:07:25,771 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:25,773 - INFO - H\u1ed7 tr\u1ee3: 0.376, Kháng c\u1ef1: 0.491
+2025-08-02 11:07:25,773 - INFO - Khuy\u1ebfn ngh\u1ecb cho HYPER/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.275, Khung: 4h
+2025-08-02 11:07:25,775 - INFO - Phân tích c\u1ea3m xúc cho HYPER/USDT: Tích c\u1ef1c (Bullish) (Score: 0.72)
+2025-08-02 11:07:26,157 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho RESOLV/USDT (12h)
+2025-08-02 11:07:26,211 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:26,216 - INFO - H\u1ed7 tr\u1ee3: 0.1682, Kháng c\u1ef1: 0.2147
+2025-08-02 11:07:26,216 - INFO - Khuy\u1ebfn ngh\u1ecb cho RESOLV/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.555, Khung: 4h
+2025-08-02 11:07:26,220 - INFO - Phân tích c\u1ea3m xúc cho RESOLV/USDT: Tích c\u1ef1c (Bullish) (Score: 0.86)
+2025-08-02 11:07:26,623 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BOME/USDT (4h)
+2025-08-02 11:07:26,689 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:26,848 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho AR/USDT (4h)
+2025-08-02 11:07:26,891 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:26,909 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ATM/USDT (4h)
+2025-08-02 11:07:26,928 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho MKR/USDT (4h)
+2025-08-02 11:07:27,056 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:27,066 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:27,113 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho BOME/USDT (12h)
+2025-08-02 11:07:27,167 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:27,170 - INFO - H\u1ed7 tr\u1ee3: 0.00169, Kháng c\u1ef1: 0.001978
+2025-08-02 11:07:27,170 - INFO - Khuy\u1ebfn ngh\u1ecb cho BOME/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.43999999999999995, Khung: 4h
+2025-08-02 11:07:27,173 - ERROR - L\u1ed7i tính toán ch\u1ec9 s\u1ed1 giao d\u1ecbch: Giá hi\u1ec7n t\u1ea1i, s\u1ed1 ti\u1ec1n \u0111\u1ea7u t\u01b0 ho\u1eb7c \u0111òn b\u1ea9y không h\u1ee3p l\u1ec7
+2025-08-02 11:07:27,173 - INFO - Phân tích c\u1ea3m xúc cho BOME/USDT: Trung l\u1eadp (Neutral) (Score: 0.45)
+2025-08-02 11:07:27,180 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho MDT/USDT (4h)
+2025-08-02 11:07:27,226 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:27,242 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho AR/USDT (12h)
+2025-08-02 11:07:27,279 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:27,281 - INFO - H\u1ed7 tr\u1ee3: 6.32, Kháng c\u1ef1: 7.66
+2025-08-02 11:07:27,282 - INFO - Khuy\u1ebfn ngh\u1ecb cho AR/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.69, Khung: 4h
+2025-08-02 11:07:27,284 - INFO - Phân tích c\u1ea3m xúc cho AR/USDT: Trung l\u1eadp (Neutral) (Score: 0.67)
+2025-08-02 11:07:27,376 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho MKR/USDT (12h)
+2025-08-02 11:07:27,422 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:27,429 - INFO - H\u1ed7 tr\u1ee3: 1854.0, Kháng c\u1ef1: 2098.9
+2025-08-02 11:07:27,429 - INFO - Khuy\u1ebfn ngh\u1ecb cho MKR/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.6699999999999999, Khung: 4h
+2025-08-02 11:07:27,432 - INFO - Phân tích c\u1ea3m xúc cho MKR/USDT: Tích c\u1ef1c (Bullish) (Score: 0.84)
+2025-08-02 11:07:27,491 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho VIC/USDT (4h)
+2025-08-02 11:07:27,545 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:27,549 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho MDT/USDT (12h)
+2025-08-02 11:07:27,619 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:27,621 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho CVX/USDT (4h)
+2025-08-02 11:07:27,625 - INFO - H\u1ed7 tr\u1ee3: 0.02565, Kháng c\u1ef1: 0.03619
+2025-08-02 11:07:27,626 - INFO - Khuy\u1ebfn ngh\u1ecb cho MDT/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.615, Khung: 4h
+2025-08-02 11:07:27,631 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho ATM/USDT (12h)
+2025-08-02 11:07:27,659 - INFO - Phân tích c\u1ea3m xúc cho MDT/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.27)
+2025-08-02 11:07:27,708 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:27,715 - INFO - H\u1ed7 tr\u1ee3: 1.342, Kháng c\u1ef1: 1.94
+2025-08-02 11:07:27,716 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:27,716 - INFO - Khuy\u1ebfn ngh\u1ecb cho ATM/USDT: GI\u1eee, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.095, Khung: 4h
+2025-08-02 11:07:27,729 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PEOPLE/USDT (4h)
+2025-08-02 11:07:27,828 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:27,855 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho VIC/USDT (12h)
+2025-08-02 11:07:27,855 - INFO - Phân tích c\u1ea3m xúc cho ATM/USDT: Trung l\u1eadp (Neutral) (Score: 0.47)
+2025-08-02 11:07:27,917 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:27,921 - INFO - H\u1ed7 tr\u1ee3: 0.241, Kháng c\u1ef1: 0.3099
+2025-08-02 11:07:27,921 - INFO - Khuy\u1ebfn ngh\u1ecb cho VIC/USDT: MUA_M\u1ea0NH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.965, Khung: 4h
+2025-08-02 11:07:27,924 - INFO - Phân tích c\u1ea3m xúc cho VIC/USDT: Tích c\u1ef1c (Bullish) (Score: 0.93)
+2025-08-02 11:07:28,023 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho CVX/USDT (12h)
+2025-08-02 11:07:28,074 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho PEOPLE/USDT (12h)
+2025-08-02 11:07:28,093 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho NOT/USDT (4h)
+2025-08-02 11:07:28,134 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:28,191 - INFO - H\u1ed7 tr\u1ee3: 3.908, Kháng c\u1ef1: 4.85
+2025-08-02 11:07:28,192 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:28,201 - INFO - Khuy\u1ebfn ngh\u1ecb cho CVX/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.8200000000000001, Khung: 4h
+2025-08-02 11:07:28,216 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:28,224 - INFO - H\u1ed7 tr\u1ee3: 0.01722, Kháng c\u1ef1: 0.02052
+2025-08-02 11:07:28,234 - INFO - Khuy\u1ebfn ngh\u1ecb cho PEOPLE/USDT: BÁN_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: -0.6199999999999999, Khung: 4h
+2025-08-02 11:07:28,235 - INFO - Phân tích c\u1ea3m xúc cho CVX/USDT: Tích c\u1ef1c (Bullish) (Score: 0.99)
+2025-08-02 11:07:28,245 - WARNING - Stop loss không h\u1ee3p l\u1ec7, \u0111i\u1ec1u ch\u1ec9nh thành 0.0202
+2025-08-02 11:07:28,245 - WARNING - Take profit không h\u1ee3p l\u1ec7, \u0111i\u1ec1u ch\u1ec9nh thành 0.0196
+2025-08-02 11:07:28,245 - INFO - Phân tích c\u1ea3m xúc cho PEOPLE/USDT: Tiêu c\u1ef1c (Bearish) (Score: 0.18)
+2025-08-02 11:07:28,245 - WARNING - C\u1eb7p PEOPLE/USDT có support/resistance quá g\u1ea7n nhau
+2025-08-02 11:07:28,532 - INFO - L\u1ea5y d\u1eef li\u1ec7u thành công cho NOT/USDT (12h)
+2025-08-02 11:07:28,608 - INFO - Tính toán ch\u1ec9 báo thành công, bao g\u1ed3m WMA RSI
+2025-08-02 11:07:28,611 - INFO - H\u1ed7 tr\u1ee3: 0.001836, Kháng c\u1ef1: 0.002192
+2025-08-02 11:07:28,611 - INFO - Khuy\u1ebfn ngh\u1ecb cho NOT/USDT: MUA_TRUNG_BÌNH, T\u1ed5ng tr\u1ecdng s\u1ed1: 0.5650000000000001, Khung: 4h
+2025-08-02 11:07:28,614 - ERROR - L\u1ed7i tính toán ch\u1ec9 s\u1ed1 giao d\u1ecbch: Giá hi\u1ec7n t\u1ea1i, s\u1ed1 ti\u1ec1n \u0111\u1ea7u t\u01b0 ho\u1eb7c \u0111òn b\u1ea9y không h\u1ee3p l\u1ec7
+2025-08-02 11:07:28,614 - INFO - Phân tích c\u1ea3m xúc cho NOT/USDT: Trung l\u1eadp (Neutral) (Score: 0.54)
+2025-08-02 11:07:28,615 - INFO - Rà soát hoàn t\u1ea5t: 50 c\u1eb7p \u0111\u01b0\u1ee3c x\u1eed lý (t\u1ed1i \u0111a 25 mua + 25 bán)
